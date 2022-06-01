@@ -73,3 +73,25 @@ h2 {
     background-size: contain;
     position: relative;
 }
+
+/* about us  */
+
+#about-us {
+    clear: both;
+}
+
+#about-us h2 {
+    border-bottom: 1px solid #fafafa;
+}
+
+#about-us {
+    margin-left: 30px;
+    width: 25%;
+    height: 20%;
+    padding: 15px;
+    background-color: rgba(64, 64, 64, 0.6);
+
+    top: 30px;
+    left: 125px;
+    position: absolute;
+}
