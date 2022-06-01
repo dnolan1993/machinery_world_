@@ -33,4 +33,10 @@ safety procedures, contact information and a booking form. This site is targeted
             The Services section of the page gives the user a brief overview of what the company does and the services we offer to the user.
             </li>
         </ul>
+        <li>Gallery</li>
+        <ul>
+            <li>
+            The Gallery page gives the user a selection of images of the equipment they can operate and some of the applications of the equipment.
+            </li>
+        </ul>
 </ul>
