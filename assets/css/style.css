@@ -62,3 +62,14 @@ h2 {
 .active {
     border-bottom: 2px solid #ff4747;
 }
+
+/* main content section */
+
+#background_image {
+    clear: both;
+    height: 800px;
+    width: 100%;
+    background: url('../images/doosan-loading-shovel.jpg') no-repeat center center;
+    background-size: contain;
+    position: relative;
+}
