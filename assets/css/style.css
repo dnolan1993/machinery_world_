@@ -117,3 +117,25 @@ h2 {
 #bundle {
     padding-top: 20px;
 }
+
+/* footer */
+
+footer {
+    height: 50px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks>li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    padding-top: 20px;
+    color: #fafafa;
+}
