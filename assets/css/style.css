@@ -217,3 +217,8 @@ footer {
     text-transform: uppercase;
     display: block;
 }
+
+#book-now:hover {
+    color: yellow;
+    background-color: #414141;
+}
