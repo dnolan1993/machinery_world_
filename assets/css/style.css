@@ -84,6 +84,7 @@ h2 {
 
 section {
     line-height: 175%;
+    max-width: 600px;
 }
 
 #about-us {
