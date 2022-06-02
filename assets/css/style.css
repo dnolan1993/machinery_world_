@@ -353,3 +353,61 @@ footer {
         left: 5%;
     }
 }
+
+/* For small-medium screen sizes from 590px wide and down  */
+
+@media screen and (max-width: 590px) {
+    #logo {
+        text-align: center;
+        margin: auto;
+
+    }
+
+    #menu {
+        margin-left: 20%;
+    }
+
+    #photos {
+        column-count: 3;
+        margin-top: 0;
+        padding-top: 5%;
+    }
+
+    #form-section {
+        width: 100%;
+        background-position: 50% 50%;
+    }
+
+    #booking-form-input {
+        width: 90%;
+        height: auto;
+        left: 1%;
+    }
+}
+
+/* For small-medium screen sizes from 555px wide and down  */
+
+@media screen and (max-width: 555px) {
+    #logo {
+        line-height: 90%;
+        margin-top: 7.5%;
+    }
+
+    #menu {
+        line-height: 110%;
+        font-size: 120%;
+        margin-left: 25%;
+    }
+
+    #background_image section {
+        position: 50%;
+        left: 2.5%;
+        right: 2.5%;
+    }
+
+    #photos {
+        column-count: 3;
+        margin-top: 0;
+        padding-top: 2.5%;
+    }
+}
