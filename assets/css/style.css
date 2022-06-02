@@ -411,3 +411,42 @@ footer {
         padding-top: 2.5%;
     }
 }
+
+/* For small screen sizes from 452px wide and down  */
+
+@media screen and (max-width: 452px) {
+    #menu {
+        font-size: large;
+        line-height: 200%;
+        margin-left: 20%;
+    }
+
+    #photos {
+        column-count: 2;
+    }
+
+    #book-now {
+        width: 40%;
+    }
+}
+
+/* For small screen sizes from 408px wide and down  */
+
+@media screen and (max-width: 408px) {
+    #menu {
+        display: block;
+        text-align: center;
+    }
+
+    #services {
+        clear: both;
+    }
+
+    #photos {
+        column-count: 2;
+    }
+
+    #book-now {
+        width: 50%;
+    }
+}
