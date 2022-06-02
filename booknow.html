@@ -31,7 +31,73 @@
             </ul>
         </nav>
     </header>
-   
+    <section id="form_section" class="form-section">
+        <form method="POST" action="https://formdump.codeinstitute.net/" id="booking-form-input" class="booking-form">
+            <h2>Book a time and date for your experience <i class="fa-solid fa-person-digging"></i></h2>
+
+            <div class="booking-input">
+                <label for="fname">First Name:</label>
+                <input type="text" id="fname" name="fname" class="text-input non-button" required>
+            </div>
+            <div class="booking-input">
+                <label for="lname">Last Name:</label>
+                <input type="text" id="lname" name="lname" class="text-input non-button" required>
+            </div>
+            <div class="booking-input">
+                <label for="email">email address:</label>
+                <input type="email" id="email" name="email" class="text-input non-button" required>
+            </div>
+            <div class="booking-input machinery-buttons">
+                <input type="radio" id="site-dumper" name="machinery" value="site-dumper" required>
+                <label for="site-dumper">Site dumper</label>
+            </div>
+            <div class="booking-input machinery-buttons">
+                <input type="radio" id="dump-truck" name="machinery" value="dump-truck" required>
+                <label for="dump-truck">Articulated Dumptruck</label>
+            </div>
+            <div class="booking-input">
+                <input type="radio" id="skid-steer-loader" name="machinery" value="skid-steer-loader" required>
+                <label for="skid-steer-loader">Skid-steer Loader</label>
+            </div>
+            <div class="booking-input">
+                <input type="radio" id="telehandler" name="machinery" value="telehandler" required>
+                <label for="telehandler">Telehandler</label>
+            </div>
+            <div class="booking-input">
+                <input type="radio" id="loader" name="machinery" value="loader" required>
+                <label for="loader">Loading Shovel</label>
+            </div>
+            <div class="booking-input">
+                <input type="radio" id="mini-excavator" name="machinery" value="mini-excavator" required>
+                <label for="mini-excavator">Mini-excavator</label>
+            </div>
+            <div class="booking-input">
+                <input type="radio" id="excavator" name="machinery" value="excavator" required>
+                <label for="excavator">Excavator</label>
+            </div>
+            <div class="booking-input">
+                <input type="radio" id="bull-dozer" name="machinery" value="bull-dozer" required>
+                <label for="bull-dozer">Bulldozer</label>
+            </div>
+            <div class="booking-input">
+                <label for="multiple-machines">If you are booking more than one machine for the day please type the
+                    additional machine/machines here:</label>
+                <input type="text" id="multiple-machines" name="multiple-machines" class="text-input non-button">
+            </div>
+            <div class="booking-input">
+                <label for="date">Select a date:</label>
+                <input type="date" id="date" name="date" required>
+            </div>
+            <div class="booking-input">
+                <label for="time">Select a time:</label>
+                <input type="time" id="time" name="time" min="09:00" max="18:00" required>
+            </div>
+            <div class="booking-input">
+                <input type="submit" id="book-now" name="book-now" value="Book now!" class="booking-button">
+            </div>
+            </div>
+        </form>
+    </section>
     <footer>
         <ul class="social-networks">
             <li>
