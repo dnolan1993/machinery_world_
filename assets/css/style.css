@@ -196,3 +196,24 @@ footer {
     left: 5%;
     top: 10%;
 }
+
+.booking-input {
+    display: block;
+}
+
+.text-input {
+    margin-right: 0;
+    padding-right: 20%;
+}
+
+#book-now {
+    margin-top: 20px;
+    width: 30%;
+    height: 40%;
+    border-radius: 20px;
+    text-align: center;
+    background-color: yellow;
+    font-size: 110%;
+    text-transform: uppercase;
+    display: block;
+}
