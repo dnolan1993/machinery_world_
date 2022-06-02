@@ -165,3 +165,16 @@ footer {
     background-size: contain;
     position: relative;
 }
+
+.form-section h2 {
+    display: table-row;
+}
+
+
+.non-button input {
+    display: table-cell;
+}
+
+.non-button label {
+    display: table-cell;
+}
