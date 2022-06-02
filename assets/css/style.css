@@ -4,10 +4,11 @@
     margin: 0;
     padding: 0;
     border: none;
+    box-sizing: border-box;
 }
 
 body {
-    font-family: roboto, sans-serif;
+    font-family: Roboto, sans-serif;
     font-weight: 400;
     background-color: #414141;
     color: #fafafa;
@@ -81,6 +82,10 @@ h2 {
 
 /* about us  */
 
+section {
+    line-height: 175%;
+}
+
 #about-us {
     clear: both;
 }
@@ -90,29 +95,28 @@ h2 {
 }
 
 #about-us {
-    margin-left: 30px;
-    width: 25%;
-    height: 20%;
-    padding: 15px;
+    padding: 2.5%;
+    width: 45%;
+    height: fit-content;
     background-color: rgba(64, 64, 64, 0.6);
-
-    top: 30px;
-    left: 125px;
-    position: absolute;
+    position: relative;
+    top: 5%;
+    left: 10%;
 }
 
 /* services section */
 
 #services {
-    margin-left: 30px;
-    width: 25%;
+    float: right;
+    width: 45%;
     height: auto;
-    padding: 20px;
+    padding: 2.5%;
     background-color: rgba(64, 64, 64, 0.6);
-
-    bottom: 30px;
-    right: 150px;
-    position: absolute;
+    
+    position: relative; 
+    top: 10%;
+    right: 10%;
+ 
 }
 
 #equipment-list {
@@ -207,10 +211,12 @@ footer {
 }
 
 .text-input {
-    margin-right: 0;
-    padding-right: 20%;
+    position: absolute;
+    right: 20%;
     background-color: #313131;
     color: #fafafa;
+    border-radius: 5px;
+    border: solid 1px #fafafa;
 }
 
 #book-now {
