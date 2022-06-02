@@ -275,3 +275,81 @@ footer {
         width: 50%;
     }
 }
+
+/* For medium-large screen sizes from 1008px wide and down  */
+
+@media screen and (max-width: 1008px) {
+
+    #logo {
+        margin: 0;
+    }
+
+    #menu {
+        clear: both;
+        line-height: 0px;
+        margin-top: 0;
+        padding-top: 2.5%;
+    }
+
+    #photos {
+        margin-top: 0;
+        padding-top: 2.5%;
+    }
+
+    #form_section {
+        background-position: 50% 20%;
+    }
+
+    #book-now {
+        width: 50%;
+    }
+}
+
+/* For medium screen sizes from 768px wide and down  */
+
+@media screen and (max-width: 768px) {
+    #logo {
+        float: none;
+        text-align: center;
+        margin: auto;
+    }
+
+    #menu {
+        line-height: 1%;
+        float: none;
+        margin-left: 25%;
+    }
+
+    #background_image {
+        width: 100%;
+        background-size: contain;
+        position: relative;
+    }
+
+    #background_image section {
+        clear: both;
+        float: none;
+        margin-left: 5px;
+        padding: 10px;
+        width: 90%;
+        height: auto;
+        position: 50%;
+        left: 5%;
+        right: 5%;
+    }
+
+    #photos {
+        margin-top: 0;
+        padding-top: 5%;
+    }
+
+    #form-section {
+        background-position: 50% 5%;
+    }
+
+    #booking-form-input {
+        width: 70%;
+        top: 5%;
+        left: 5%;
+    }
+}
