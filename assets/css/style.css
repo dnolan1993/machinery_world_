@@ -152,3 +152,16 @@ footer {
 #photos>img {
     width: 100%;
 }
+
+/* booknow.html */
+
+.form-section {
+    clear: both;
+    width: 95%;
+    height: 900px;
+    display: table;
+    background: url(../images/loader-bucket-min.jpg) no-repeat top center;
+    margin: 2.5%;
+    background-size: contain;
+    position: relative;
+}
