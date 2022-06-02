@@ -178,3 +178,21 @@ footer {
 .non-button label {
     display: table-cell;
 }
+
+.machinery-buttons {
+    display: inline;
+    line-height: 50%;
+}
+
+#booking-form-input {
+    margin: 5%;
+    padding: 5%;
+    width: 35%;
+    height: auto;
+    float: left;
+    color: #fafafa;
+    background-color: rgba(64, 64, 64, 0.6);
+    position: absolute;
+    left: 5%;
+    top: 10%;
+}
