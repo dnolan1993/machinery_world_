@@ -39,4 +39,10 @@ safety procedures, contact information and a booking form. This site is targeted
             The Gallery page gives the user a selection of images of the equipment they can operate and some of the applications of the equipment.
             </li>
         </ul>
+        <li>Book Now!</li>
+        <ul>
+            <li>
+            The "Book Now!" page gives the user a way to book an experience throught the page, they can select the type of machinery they would like to operate as well as the time and date they would like to do so. This page also has a section that the can add more machinery if they choose to do a full day experience, they can do so in the text input labelled on the page. 
+            </li>
+        </ul>
 </ul>

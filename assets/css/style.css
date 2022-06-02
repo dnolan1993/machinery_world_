@@ -222,3 +222,56 @@ footer {
     color: yellow;
     background-color: #414141;
 }
+
+/* media queries */
+
+/* for large screen sizes 1400px wide and down */
+
+@media screen and (max-width: 1400px) {
+
+    #booking-form-input {
+        top: 5%;
+    }
+}
+
+/* For large screen sizes from 1200px wide and down  */
+
+@media screen and (max-width: 1200px) {
+
+    #logo,
+    #menu {
+        line-height: 100px;
+    }
+
+    #background_image {
+        width: 100%;
+        background-size: contain;
+        position: relative;
+    }
+
+    #background_image section {
+        height: auto;
+        width: 30%;
+    }
+
+    #about-us {
+        margin-left: .5%;
+    }
+
+    #services {
+        margin-right: .5%;
+    }
+
+    #photos {
+        margin-top: 0;
+        padding-top: 2.5%;
+    }
+
+    #booking-form-input {
+        top: 2.5%;
+    }
+
+    #book-now {
+        width: 50%;
+    }
+}
