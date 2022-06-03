@@ -187,16 +187,13 @@ footer {
 }
 
 .form-section h2 {
-    display: table-row;
+    font-size: 200%;
 }
 
 
-.non-button input {
-    display: table-cell;
-}
-
-.non-button label {
-    display: table-cell;
+.non-button label, input {
+    
+    display: block;
 }
 
 .machinery-buttons {
@@ -207,12 +204,12 @@ footer {
 #booking-form-input {
     line-height: 175%;
     margin: 2.5%;
-    padding: 5%;
+    padding: 2.5%;
     width: 50%;
     height: auto;
     float: left;
     color: #fafafa;
-    background-color: rgba(64, 64, 64, 0.6);
+    background-color: rgba(64, 64, 64, 0.5);
     position: relative;
     left: 5%;
     top: 1%;
@@ -220,7 +217,7 @@ footer {
 
 .machinery-radio {
     margin: 1.5%;
-    
+    display: inline-block;
 }
 
 .booking-input {
@@ -228,12 +225,22 @@ footer {
 }
 
 .text-input {
-    position: absolute;
-    right: 20%;
-    background-color: #313131;
+    background-color: transparent;
     color: #fafafa;
     border-radius: 5px;
     border: solid 1px #fafafa;
+    width: 40%;
+    padding: .5%;
+}
+
+.date-time {
+    color-scheme: dark;
+    background-color: transparent;
+    border: solid 1px #fafafa;
+    border-radius: 5px;
+    width: 40%;
+    text-align: center;
+    padding: .5%;
 }
 
 #book-now {
