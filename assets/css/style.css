@@ -258,13 +258,13 @@ footer {
         line-height: 100px;
     }
 
-    #background_image {
+    #background-image {
         width: 100%;
         background-size: contain;
         position: relative;
     }
 
-    #background_image section {
+    #background-image section {
         height: auto;
         width: 30%;
     }
@@ -311,7 +311,7 @@ footer {
         padding-top: 2.5%;
     }
 
-    #form_section {
+    .form-section {
         background-position: 50% 20%;
     }
 
@@ -335,13 +335,13 @@ footer {
         margin-left: 25%;
     }
 
-    #background_image {
+    #background-image {
         width: 100%;
         background-size: contain;
         position: relative;
     }
 
-    #background_image section {
+    #background-image section {
         clear: both;
         float: none;
         margin-left: 5px;
@@ -358,7 +358,7 @@ footer {
         padding-top: 5%;
     }
 
-    #form-section {
+    .form-section {
         background-position: 50% 5%;
     }
 
@@ -388,7 +388,7 @@ footer {
         padding-top: 5%;
     }
 
-    #form-section {
+    .form-section {
         width: 100%;
         background-position: 50% 50%;
     }
@@ -414,7 +414,7 @@ footer {
         margin-left: 25%;
     }
 
-    #background_image section {
+    #background-image section {
         position: 50%;
         left: 2.5%;
         right: 2.5%;
