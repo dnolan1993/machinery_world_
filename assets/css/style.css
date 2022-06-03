@@ -83,7 +83,7 @@ h2 {
 /* about us  */
 
 section {
-    line-height: 175%;
+    line-height: 150%;
     max-width: 600px;
 }
 
@@ -96,7 +96,7 @@ section {
 }
 
 #about-us {
-    padding: 2.5%;
+    padding: 1%;
     width: 45%;
     height: fit-content;
     background-color: rgba(64, 64, 64, 0.6);
@@ -107,17 +107,22 @@ section {
 
 /* services section */
 
+#services h2 {
+    border-bottom: 1px solid #fafafa;
+}
+
 #services {
+
     float: right;
     width: 45%;
     height: auto;
-    padding: 2.5%;
+    padding: 1%;
     background-color: rgba(64, 64, 64, 0.6);
-    
-    position: relative; 
-    top: 10%;
+
+    position: relative;
+    top: 30%;
     right: 10%;
- 
+
 }
 
 #equipment-list {
