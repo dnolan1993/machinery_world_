@@ -228,6 +228,7 @@ input {
 .text-input {
     background-color: transparent;
     color: #fafafa;
+    -webkit-text-fill-color:#fafafa;
     border-radius: 5px;
     border: solid 1px #fafafa;
     width: 40%;
