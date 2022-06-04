@@ -499,14 +499,6 @@ input {
     #book-now {
         width: 40%;
     }
-
-    #background-image {
-        margin-bottom: 0;
-    }
-
-    footer  {
-        margin-top: 0;
-    }
 }
 
 /* For small screen sizes from 408px wide and down  */
@@ -517,8 +509,16 @@ input {
         text-align: center;
     }
 
+    #background-image section {
+        width: 95%;
+    }
+
+    #about-us {
+        top: 0.5%;
+    }
+
     #services {
-        clear: both;
+        bottom: -2.5%;
     }
 
     .photos {
