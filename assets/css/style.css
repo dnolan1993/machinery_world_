@@ -387,23 +387,20 @@ input {
     #background-image section {
         clear: both;
         float: none;
-        margin-left: 5px;
-        padding: 10px;
-        width: 90%;
+        width: 60%;
         height: auto;
-        position: 50%;
-        left: 5%;
-        right: 5%;
+        margin: 0 auto ;
     }
 
     #about-us {
-        left: 5%;
+        left: auto;
+        right: auto;
     }
 
     #services {
-        right: auto;
         left: auto;
-        bottom: -15%;
+        right: auto;
+        bottom: -17.5%;
     }
 
     .photos {
