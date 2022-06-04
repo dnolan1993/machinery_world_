@@ -432,6 +432,10 @@ input {
         margin-left: 20%;
     }
 
+    #background-image section {
+        width: 80%;
+    }
+
     .photos {
         column-count: 3;
         margin-top: 0;
