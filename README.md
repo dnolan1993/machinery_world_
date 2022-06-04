@@ -1,6 +1,8 @@
 # Machinery World
 
-The Machinery World website is a landing page to display what Machinery world is to the user. Machinery world is constructioin machinery theme park where ,kids age 8 and over , and adults can experience driving any construction equipment they choose.
+<a href="https://dnolan1993.github.io/machinery_world_/index.html">Link to live project</a>
+
+The Machinery World website is a site to advertise a fictional constructioin machinery theme park. Machinery world is a park where ,kids age 8 and over , and adults can experience driving any construction equipment they choose. To get a feel for what it's like to run machinery first hand. The site is mainly targeted at adults that may want a fun day out for their family or just themselves, there is a image gallery to show some of the machinery available and the applications they may experience while at the park.
 
 Users of this website will be able to find all the information thery need to know about Machinery world: What is Machinery World, opening times,
 safety procedures, contact information and a booking form. This site is targeted towards parents that think their child would enjoy the experience of driving construction equipment or that they may themselves enjoy the experience.
