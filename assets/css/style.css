@@ -324,11 +324,31 @@ input {
         margin: 0;
     }
 
+    #index-nav {
+        margin-bottom: 2.5%;
+    }
+
     .menu {
         clear: both;
         line-height: 0px;
         margin-top: 0;
         padding-top: 2.5%;
+    }
+
+    #background-image {
+        background: url(../images/wheel-digger-on-road-site-min.jpg) no-repeat center top;
+        width: 100%;
+        background-size: contain;
+        position: relative;
+    }
+
+    #background-image section {
+        margin: 0 auto;
+    }
+
+    #services {
+        right: 25%;
+        bottom: -20%;
     }
 
     .photos {
@@ -364,12 +384,6 @@ input {
         margin-left: 25%;
     }
 
-    #background-image {
-        width: 100%;
-        background-size: contain;
-        position: relative;
-    }
-
     #background-image section {
         clear: both;
         float: none;
@@ -380,6 +394,16 @@ input {
         position: 50%;
         left: 5%;
         right: 5%;
+    }
+
+    #about-us {
+        left: 5%;
+    }
+
+    #services {
+        right: auto;
+        left: auto;
+        bottom: -15%;
     }
 
     .photos {
