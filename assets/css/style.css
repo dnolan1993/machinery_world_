@@ -469,9 +469,7 @@ input {
     }
 
     #background-image section {
-        position: 50%;
-        left: 2.5%;
-        right: 2.5%;
+        width: 85%;
     }
 
     .photos {
@@ -490,12 +488,24 @@ input {
         margin-left: 20%;
     }
 
+    #services {
+        bottom: -5%;
+    }
+
     .photos {
         column-count: 2;
     }
 
     #book-now {
         width: 40%;
+    }
+
+    #background-image {
+        margin-bottom: 0;
+    }
+
+    footer  {
+        margin-top: 0;
     }
 }
 
