@@ -204,6 +204,7 @@ footer {
 #booking-form-input {
     line-height: 175%;
     margin: 2.5%;
+    margin-top: 1%;
     padding: 2.5%;
     width: 50%;
     height: auto;
@@ -212,7 +213,6 @@ footer {
     background-color: rgba(64, 64, 64, 0.5);
     position: relative;
     left: 5%;
-    top: 1%;
 }
 
 .machinery-radio {
@@ -262,15 +262,6 @@ footer {
 }
 
 /* media queries */
-
-/* for large screen sizes 1400px wide and down */
-
-@media screen and (max-width: 1400px) {
-
-    #booking-form-input {
-        top: 5%;
-    }
-}
 
 /* For large screen sizes from 1200px wide and down  */
 
