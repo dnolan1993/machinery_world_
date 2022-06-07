@@ -47,7 +47,8 @@
                 <label for="email">email address:</label>
                 <input type="email" id="email" name="email" class="text-input non-button" required>
             </div>
-            <label for="booking-input machinery-buttons">Please choose one of the following machines for your experience:</label>
+            <label for="booking-input machinery-buttons">Please choose one of the following machines for your
+                experience:</label>
             <div class="booking-input machinery-buttons">
                 <input type="radio" class="machinery-radio" id="site-dumper" name="machinery" value="site-dumper"
                     required>
@@ -87,9 +88,19 @@
                 <label for="bull-dozer">Bulldozer</label>
             </div>
             <div class="booking-input">
-                <label for="multiple-machines">If you are booking more than one machine for the day please type the
-                    additional machine/machines here:</label>
-                <input type="text" id="multiple-machines" name="multiple-machines" class="text-input non-button">
+                <label for="multiple-machines">If you are booking more than one machine for the day please select the
+                    additional machine here:</label>
+                <input list="multiple-machines" name="multiple-machines">
+                <datalist id="multiple-machines" class="text-input non-button">
+                    <option value="Site dumper">
+                    <option value="Articulated Dumptruck">
+                    <option value="Skid-steer Loader">
+                    <option value="Telehandler">
+                    <option value="Loading Shovel">
+                    <option value="Mini-excavator">
+                    <option value="Excavator">
+                    <option value="Bulldozer">
+                </datalist>
             </div>
             <div class="booking-input">
                 <label for="date">Select a date:</label>
@@ -97,7 +108,8 @@
             </div>
             <div class="booking-input">
                 <label for="time">Select a time:</label>
-                <input type="time" class="date-time" id="time" name="time" min="09:00" max="18:00" class="text-input non-button" required>
+                <input type="time" class="date-time" id="time" name="time" min="09:00" max="18:00"
+                    class="text-input non-button" required>
             </div>
             <div class="booking-input">
                 <input type="submit" id="book-now" name="book-now" value="Book now!" class="booking-button">
