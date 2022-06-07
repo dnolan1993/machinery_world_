@@ -74,3 +74,11 @@ safety procedures, contact information and a booking form. This site is targeted
         I confirmed my form functionality by running it with the correct information, then incorrect information as a control to ensure the inputs were correct and working corrrectly.
     </li>
 </ul>
+
+## Bugs
+### Solved bugs
+<ul>
+    <li>
+    
+    </li>
+</ul>
