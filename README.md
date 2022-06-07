@@ -47,6 +47,7 @@ safety procedures, contact information and a booking form. This site is targeted
             The Gallery page gives the user a selection of images of the equipment they can operate and some of the applications of the equipment.
             </li>
         </ul>
+        <img src="assets/images/booknow-page.png" alt="Screenshot of Book Now! webpage">
         <li>Book Now!</li>
         <ul>
             <li>
