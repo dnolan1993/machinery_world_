@@ -11,6 +11,7 @@ safety procedures, contact information and a booking form. This site is targeted
 
 ## Features
 <ul>
+    <img src="../machinery_world_/assets/images/header-element.png">
     <li>Header</li>
         <ul>
             <li>
@@ -24,7 +25,7 @@ safety procedures, contact information and a booking form. This site is targeted
                     The navigation is featured at the top of the page to make it easy to access and is immediately visible to the user, the logo itself is a navigation link which returns to the home page which is located in the top left of the page, other navigation links are located in the top right of the page.
                     </li>
                 </ul>
-        </ul>
+        </ul>   
     <li>About us</li>
         <ul>
             <li>
