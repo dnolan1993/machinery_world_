@@ -33,7 +33,7 @@ safety procedures, contact information and a booking form. This site is targeted
             The About us section of the page gives the user a brief introduction to the company and the services it provides, outlining when the park was established and what they aim to do.
             </li>
         </ul>
-        <img src="assets/images/services-section.png">
+        <img src="assets/images/services-section.png" alt="Screenshot of Services section from the webpage">
         <li>Services</li>
         <ul>
             <li>
