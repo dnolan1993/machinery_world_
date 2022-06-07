@@ -17,11 +17,13 @@ safety procedures, contact information and a booking form. This site is targeted
             The Header displays a logo of the theme park and contains a navigation link for users to easier navigate the website.
             </li>
         </ul>
-    <li>Navigation</li>
         <ul>
-            <li>
-            The navigation is featured at the top of the page to make it easy to access and is immediately visible to the user, the logo itself is a navigation link which returns to the home page which is located in the top left of the page, other navigation links are located in the top right of the page.
-            </li>
+            <li>Navigation</li>
+                <ul>
+                    <li>
+                    The navigation is featured at the top of the page to make it easy to access and is immediately visible to the user, the logo itself is a navigation link which returns to the home page which is located in the top left of the page, other navigation links are located in the top right of the page.
+                    </li>
+                </ul>
         </ul>
     <li>About us</li>
         <ul>
