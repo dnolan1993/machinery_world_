@@ -228,305 +228,306 @@ input {
 .text-input {
     background-color: transparent;
     color: #fafafa;
-    -webkit-text-fill-color:#fafafa;
+    -webkit-text-fill-color: #fafafa;
     border-radius: 5px;
     border: solid 1px #fafafa;
     width: 40%;
     padding: .5%;
+    transition: background-color 5000s ease-in-out 0s;
 }
 
-.date-time {
-    color-scheme: dark;
-    background-color: transparent;
-    border: solid 1px #fafafa;
-    border-radius: 5px;
-    width: 40%;
-    text-align: center;
-    padding: .5%;
-}
-
-#book-now {
-    margin-top: 20px;
-    width: 30%;
-    height: 40%;
-    border-radius: 20px;
-    text-align: center;
-    color: black;
-    background-color: yellow;
-    font-size: 110%;
-    text-transform: uppercase;
-    display: block;
-}
-
-#book-now:hover {
-    color: yellow;
-    background-color: #414141;
-}
-
-/* media queries */
-
-/* For large screen sizes from 1200px wide and down  */
-
-@media screen and (max-width: 1200px) {
-
-    #logo,
-    .menu {
-        line-height: 100px;
-    }
-
-    #background-image {
-        width: 100%;
-        background-size: contain;
-        position: relative;
-    }
-
-    #about-us {
-        top: 2.5%;
-        left: 2.5%;
-    }
-
-    #services {
-        bottom: -22.5%;
-        right: 2.5%;
-    }
-
-    .photos {
-        margin-top: 0;
-        padding-top: 2.5%;
-    }
-
-    .form-section {
-        background: url(../images/bobcat-skidsteer-min.jpg) no-repeat top center;
-        background-size: contain;
-    }
-
-    #booking-form-input {
-        left: 22.5%;
-    }
-
-    #book-now {
-        width: 50%;
-    }
-}
-
-/* For services to fit more uniformly throughout sizes */
-
-@media screen and (max-width: 1110px) {
-    #services {
-        bottom: -13%;
-    }
-}
-
-/* For medium-large screen sizes from 1008px wide and down  */
-
-@media screen and (max-width: 1008px) {
-
-    #logo {
-        margin: 0;
-    }
-
-    #index-nav {
-        margin-bottom: 2.5%;
-    }
-
-    .menu {
-        clear: both;
-        line-height: 0px;
-        margin-top: 0;
-        padding-top: 2.5%;
-    }
-
-    #background-image {
-        background: url(../images/wheel-digger-on-road-site-min.jpg) no-repeat center top;
-        width: 100%;
-        background-size: contain;
-        position: relative;
-    }
-
-    #background-image section {
-        margin: 0 auto;
-    }
-
-    #services {
-        right: 25%;
-        bottom: -20%;
-    }
-
-    .photos {
-        margin-top: 0;
-        padding-top: 2.5%;
-    }
-
-    #booknow-nav {
-        margin-bottom: 5%;
-    }
-
-    .form-section {
-        background-position: 50% 10%;
-    }
-
-    #book-now {
-        width: 50%;
-    }
-}
-
-/* For medium screen sizes from 768px wide and down  */
-
-@media screen and (max-width: 768px) {
-    #logo {
-        float: none;
-        text-align: center;
-        margin: auto;
-    }
-
-    .menu {
-        line-height: 1%;
-        float: none;
-        margin-left: 25%;
-    }
-
-    #background-image section {
-        clear: both;
-        float: none;
-        width: 60%;
-        height: auto;
-        margin: 0 auto ;
-    }
-
-    #about-us {
-        left: auto;
-        right: auto;
-    }
-
-    #services {
-        left: auto;
-        right: auto;
-        bottom: -17.5%;
-    }
-
-    .photos {
-        margin-top: 0;
-        padding-top: 5%;
-    }
-
-    .form-section {
-        background-position: 50% 5%;
-    }
-
-    #booking-form-input {
-        width: 70%;
-        top: 5%;
-        left: 5%;
-    }
-}
-
-/* For small-medium screen sizes from 590px wide and down  */
-
-@media screen and (max-width: 590px) {
-    #logo {
-        text-align: center;
-        margin: auto;
-
-    }
-
-    .menu {
-        margin-left: 20%;
-    }
-
-    #background-image section {
-        width: 80%;
-    }
-
-    .photos {
-        column-count: 3;
-        margin-top: 0;
-        padding-top: 5%;
-    }
-
-    .form-section {
-        width: 100%;
-        background-position: 50% 50%;
-    }
-
-    #booking-form-input {
-        width: 90%;
-        height: auto;
-        left: 1%;
-    }
-}
-
-/* For small-medium screen sizes from 555px wide and down  */
-
-@media screen and (max-width: 555px) {
-    #logo {
-        line-height: 90%;
-        margin-top: 7.5%;
-    }
-
-    .menu {
-        line-height: 110%;
-        font-size: 120%;
-        margin-left: 25%;
-    }
-
-    #background-image section {
-        width: 85%;
-    }
-
-    .photos {
-        column-count: 3;
-        margin-top: 0;
-        padding-top: 2.5%;
-    }
-}
-
-/* For small screen sizes from 452px wide and down  */
-
-@media screen and (max-width: 452px) {
-    .menu {
-        font-size: large;
-        line-height: 200%;
-        margin-left: 20%;
-    }
-
-    #services {
-        bottom: -5%;
-    }
-
-    .photos {
-        column-count: 2;
-    }
-
-    #book-now {
+    .date-time {
+        color-scheme: dark;
+        background-color: transparent;
+        border: solid 1px #fafafa;
+        border-radius: 5px;
         width: 40%;
-    }
-}
-
-/* For small screen sizes from 408px wide and down  */
-
-@media screen and (max-width: 408px) {
-    .menu {
-        display: block;
         text-align: center;
-    }
-
-    #background-image section {
-        width: 95%;
-    }
-
-    #about-us {
-        top: 0.5%;
-    }
-
-    #services {
-        bottom: -2.5%;
-    }
-
-    .photos {
-        column-count: 2;
+        padding: .5%;
     }
 
     #book-now {
-        width: 50%;
+        margin-top: 20px;
+        width: 30%;
+        height: 40%;
+        border-radius: 20px;
+        text-align: center;
+        color: black;
+        background-color: yellow;
+        font-size: 110%;
+        text-transform: uppercase;
+        display: block;
     }
-}
+
+    #book-now:hover {
+        color: yellow;
+        background-color: #414141;
+    }
+
+    /* media queries */
+
+    /* For large screen sizes from 1200px wide and down  */
+
+    @media screen and (max-width: 1200px) {
+
+        #logo,
+        .menu {
+            line-height: 100px;
+        }
+
+        #background-image {
+            width: 100%;
+            background-size: contain;
+            position: relative;
+        }
+
+        #about-us {
+            top: 2.5%;
+            left: 2.5%;
+        }
+
+        #services {
+            bottom: -22.5%;
+            right: 2.5%;
+        }
+
+        .photos {
+            margin-top: 0;
+            padding-top: 2.5%;
+        }
+
+        .form-section {
+            background: url(../images/bobcat-skidsteer-min.jpg) no-repeat top center;
+            background-size: contain;
+        }
+
+        #booking-form-input {
+            left: 22.5%;
+        }
+
+        #book-now {
+            width: 50%;
+        }
+    }
+
+    /* For services to fit more uniformly throughout sizes */
+
+    @media screen and (max-width: 1110px) {
+        #services {
+            bottom: -13%;
+        }
+    }
+
+    /* For medium-large screen sizes from 1008px wide and down  */
+
+    @media screen and (max-width: 1008px) {
+
+        #logo {
+            margin: 0;
+        }
+
+        #index-nav {
+            margin-bottom: 2.5%;
+        }
+
+        .menu {
+            clear: both;
+            line-height: 0px;
+            margin-top: 0;
+            padding-top: 2.5%;
+        }
+
+        #background-image {
+            background: url(../images/wheel-digger-on-road-site-min.jpg) no-repeat center top;
+            width: 100%;
+            background-size: contain;
+            position: relative;
+        }
+
+        #background-image section {
+            margin: 0 auto;
+        }
+
+        #services {
+            right: 25%;
+            bottom: -20%;
+        }
+
+        .photos {
+            margin-top: 0;
+            padding-top: 2.5%;
+        }
+
+        #booknow-nav {
+            margin-bottom: 5%;
+        }
+
+        .form-section {
+            background-position: 50% 10%;
+        }
+
+        #book-now {
+            width: 50%;
+        }
+    }
+
+    /* For medium screen sizes from 768px wide and down  */
+
+    @media screen and (max-width: 768px) {
+        #logo {
+            float: none;
+            text-align: center;
+            margin: auto;
+        }
+
+        .menu {
+            line-height: 1%;
+            float: none;
+            margin-left: 25%;
+        }
+
+        #background-image section {
+            clear: both;
+            float: none;
+            width: 60%;
+            height: auto;
+            margin: 0 auto;
+        }
+
+        #about-us {
+            left: auto;
+            right: auto;
+        }
+
+        #services {
+            left: auto;
+            right: auto;
+            bottom: -17.5%;
+        }
+
+        .photos {
+            margin-top: 0;
+            padding-top: 5%;
+        }
+
+        .form-section {
+            background-position: 50% 5%;
+        }
+
+        #booking-form-input {
+            width: 70%;
+            top: 5%;
+            left: 5%;
+        }
+    }
+
+    /* For small-medium screen sizes from 590px wide and down  */
+
+    @media screen and (max-width: 590px) {
+        #logo {
+            text-align: center;
+            margin: auto;
+
+        }
+
+        .menu {
+            margin-left: 20%;
+        }
+
+        #background-image section {
+            width: 80%;
+        }
+
+        .photos {
+            column-count: 3;
+            margin-top: 0;
+            padding-top: 5%;
+        }
+
+        .form-section {
+            width: 100%;
+            background-position: 50% 50%;
+        }
+
+        #booking-form-input {
+            width: 90%;
+            height: auto;
+            left: 1%;
+        }
+    }
+
+    /* For small-medium screen sizes from 555px wide and down  */
+
+    @media screen and (max-width: 555px) {
+        #logo {
+            line-height: 90%;
+            margin-top: 7.5%;
+        }
+
+        .menu {
+            line-height: 110%;
+            font-size: 120%;
+            margin-left: 25%;
+        }
+
+        #background-image section {
+            width: 85%;
+        }
+
+        .photos {
+            column-count: 3;
+            margin-top: 0;
+            padding-top: 2.5%;
+        }
+    }
+
+    /* For small screen sizes from 452px wide and down  */
+
+    @media screen and (max-width: 452px) {
+        .menu {
+            font-size: large;
+            line-height: 200%;
+            margin-left: 20%;
+        }
+
+        #services {
+            bottom: -5%;
+        }
+
+        .photos {
+            column-count: 2;
+        }
+
+        #book-now {
+            width: 40%;
+        }
+    }
+
+    /* For small screen sizes from 408px wide and down  */
+
+    @media screen and (max-width: 408px) {
+        .menu {
+            display: block;
+            text-align: center;
+        }
+
+        #background-image section {
+            width: 95%;
+        }
+
+        #about-us {
+            top: 0.5%;
+        }
+
+        #services {
+            bottom: -2.5%;
+        }
+
+        .photos {
+            column-count: 2;
+        }
+
+        #book-now {
+            width: 50%;
+        }
+    }
