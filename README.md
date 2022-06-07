@@ -7,7 +7,7 @@ The Machinery World website is a site to advertise a fictional constructioin mac
 Users of this website will be able to find all the information thery need to know about Machinery world: What is Machinery World, opening times,
 safety procedures, contact information and a booking form. This site is targeted towards parents that think their child would enjoy the experience of driving construction equipment or that they may themselves enjoy the experience.
 
-(Screenshot of finished responsive design aspect here)
+<img src="assets/images/Webpage-device-preview.png">
 
 ## Features
 <ul>
