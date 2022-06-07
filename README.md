@@ -79,6 +79,16 @@ safety procedures, contact information and a booking form. This site is targeted
 ### Solved bugs
 <ul>
     <li>
-    
+    When I tested the "Book Now!" form page I relised that if you use auto-fill on google chrome browsers it changed the background color of the text inputs to white, which caused an issue as the text color is also white making it invisible within the text input.
+    </li>
+    <li>
+    I researched online to find that this is a common problem, I found an article on stackoverflow.com giving code examples to correct this error but because my text inputs are transparent I had to continue to run different variants of similar code until I found one that fixed the error. 
+    </li>
+    <li>
+    Adding the code snipet:<br>
+        transition: background-color 5000s ease-in-out 0s;<br>
+    Solved the problem and the form page functioned properly again.
     </li>
 </ul>
+
+## Credits
