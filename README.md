@@ -47,11 +47,30 @@ safety procedures, contact information and a booking form. This site is targeted
             </li>
         </ul>
         <img src="assets/images/gallery-page.png" alt="Screenshot of Gallery webpage">
-        <li>Book Now!</li>
+        <li>Book Now! Form</li>
         <ul>
             <li>
-            The "Book Now!" page gives the user a way to book an experience throught the page, they can select the type of machinery they would like to operate as well as the time and date they would like to do so. This page also has a section that the can add more machinery if they choose to do a full day experience, they can do so in the text input labelled on the page. 
+            The "Book Now!" form page gives the user a way to book an experience throught the page, they can select the type of machinery they would like to operate as well as the time and date they would like to do so. This page also has a section that the can add more machinery if they choose to do a full day experience, they can do so in the text input labelled on the page. 
             </li>
         </ul>
         <img src="assets/images/booknow-page.png" alt="Screenshot of Book Now! webpage">
+</ul>
+
+## Testing
+<ul>
+    <li>
+        I tested that the site works on differrnt browsers: Chrome, Microsoft Edge, Firefox and Safari (on iPhone).
+    </li>
+    <li>
+        I used devtools to ensure my webpage was responsive across varying screen sizes and devices. I also used devtools to ensure the site functioned in the manner I intended.
+    </li>
+    <li>
+        I tested all links to ensure that they bring the user to the intended page and/or section of the page.
+    </li>
+    <li>
+        I confirmed that all content of the pages were easy to read and understand for the user, with clear headings to signal to the user where the content was and what it related to.
+    </li>
+    <li>
+        I confirmed my form functionality by running it with the correct information, then incorrect information as a control to ensure the inputs were correct and working corrrectly.
+    </li>
 </ul>
