@@ -7,10 +7,11 @@ The Machinery World website is a site to advertise a fictional constructioin mac
 Users of this website will be able to find all the information thery need to know about Machinery world: What is Machinery World, opening times,
 safety procedures, contact information and a booking form. This site is targeted towards parents that think their child would enjoy the experience of driving construction equipment or that they may themselves enjoy the experience.
 
-<img src="assets/images/Webpage-device-preview.png" alt="Screenshot preview of responsive design across different device sizes">
+<img src="assets/images/webpage-device-preview.png" alt="Screenshot preview of responsive design across different device sizes">
 
 ## Features
 <ul>
+<img src="assets/images/header-element.png" alt="Screenshot of header from the webpage">
     <li>Header</li>
         <ul>
             <li>
@@ -24,7 +25,6 @@ safety procedures, contact information and a booking form. This site is targeted
                     The navigation is featured at the top of the page to make it easy to access and is immediately visible to the user, the logo itself is a navigation link which returns to the home page which is located in the top left of the page, other navigation links are located in the top right of the page.
                     </li>
                 </ul>
-                <img src="assets/images/header-element.png" alt="Screenshot of header from the webpage">
         </ul>
         <img src="assets/images/about-us-section.png" alt="Screenshot of About us section from the webpage">   
     <li>About us</li>
