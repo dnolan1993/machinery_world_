@@ -11,7 +11,6 @@ safety procedures, contact information and a booking form. This site is targeted
 
 ## Features
 <ul>
-    <img src="assets/images/header-element.png" alt="Screenshot of header from the webpage">
     <li>Header</li>
         <ul>
             <li>
@@ -25,6 +24,7 @@ safety procedures, contact information and a booking form. This site is targeted
                     The navigation is featured at the top of the page to make it easy to access and is immediately visible to the user, the logo itself is a navigation link which returns to the home page which is located in the top left of the page, other navigation links are located in the top right of the page.
                     </li>
                 </ul>
+                <img src="assets/images/header-element.png" alt="Screenshot of header from the webpage">
         </ul>
         <img src="assets/images/about-us-section.png" alt="Screenshot of About us section from the webpage">   
     <li>About us</li>
@@ -40,6 +40,7 @@ safety procedures, contact information and a booking form. This site is targeted
             The Services section of the page gives the user a brief overview of what the company does and the services we offer to the user.
             </li>
         </ul>
+        <img src="assets/images/gallery-page.png" alt="Screenshot of Gallery webpage">
         <li>Gallery</li>
         <ul>
             <li>
