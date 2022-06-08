@@ -229,6 +229,10 @@ input {
     display: block;
 }
 
+.text-box {
+    margin-top: 2.5%;
+}
+
 .text-input {
     background-color: transparent;
     color: #fafafa;
