@@ -90,17 +90,20 @@
             <div class="booking-input">
                 <label for="multiple-machines">If you are booking more than one machine for the day please select the
                     additional machine here:</label>
-                <input list="multiple-machines" name="multiple-machines">
-                <datalist id="multiple-machines" class="text-input non-button">
-                    <option value="Site dumper">
-                    <option value="Articulated Dumptruck">
-                    <option value="Skid-steer Loader">
-                    <option value="Telehandler">
-                    <option value="Loading Shovel">
-                    <option value="Mini-excavator">
-                    <option value="Excavator">
-                    <option value="Bulldozer">
-                </datalist>
+                <input type="text" list="machines-drop-down" name="multiple-machines" class="text-input non-button">
+                <div class="drop-down-menu">
+                    <datalist id="machines-drop-down" >
+                        <option value="None">
+                        <option value="Site dumper">
+                        <option value="Articulated Dumptruck">
+                        <option value="Skid-steer Loader">
+                        <option value="Telehandler">
+                        <option value="Loading Shovel">
+                        <option value="Mini-excavator">
+                        <option value="Excavator">
+                        <option value="Bulldozer">
+                    </datalist>
+                </div>
             </div>
             <div class="booking-input">
                 <label for="date">Select a date:</label>
