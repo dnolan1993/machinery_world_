@@ -209,8 +209,10 @@ input {
 #booking-form-input {
     line-height: 175%;
     margin: 2.5%;
-    margin-top: 1%;
+    margin-top: .25%;
+    margin-bottom: .25%;
     padding: 2.5%;
+    padding-top: 1%;
     width: 50%;
     height: auto;
     float: left;
@@ -233,30 +235,36 @@ input {
     margin-top: 2.5%;
 }
 
+.radio-div {
+    margin-top: 2.5%;
+}
+
 .text-input {
     background-color: transparent;
+    font-size: medium;
     color: #fafafa;
     -webkit-text-fill-color: #fafafa;
     border-radius: 5px;
     border: solid 1px #fafafa;
     width: 40%;
-    padding: .5%;
+    padding: 1% 3%;
     transition: background-color 5000s ease-in-out 0s;
 }
 
 .date-time {
     color-scheme: dark;
     background-color: transparent;
+    font-size: large;
     border: solid 1px #fafafa;
     border-radius: 5px;
     width: 40%;
     text-align: center;
-    padding: .5%;
+    padding: 1% 3%;
 }
 
 #book-now {
     margin-top: 20px;
-    width: 30%;
+    width: 40%;
     height: 40%;
     border-radius: 20px;
     text-align: center;
