@@ -115,7 +115,6 @@ section h2 {
     width: 45%;
     bottom: -30%;
     right: 10%;
-
 }
 
 #equipment-list {
@@ -124,6 +123,18 @@ section h2 {
 
 #bundle {
     padding-top: 20px;
+}
+
+/* opening times section */
+
+.opening-times {
+    width: 20%;
+    bottom: -51%;
+    left: 10%;
+}
+
+.opening-times ul {
+    padding-left: 10%;
 }
 
 /* footer */
