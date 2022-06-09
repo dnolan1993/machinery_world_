@@ -99,23 +99,11 @@ section h2 {
     border-bottom: 1px solid #fafafa;
 }
 
-/*section div {
-    padding: 1%;
-    width: 45%;
-    height: fit-content;
-    background-color: rgba(64, 64, 64, 0.6);
-    position: relative;
-} /
-
 /* about us  */
 
 .about-us {
     clear: both;
-    /*padding: 1%;
     width: 45%;
-    height: fit-content;
-    background-color: rgba(64, 64, 64, 0.6);
-    position: relative; */
     top: 2.5%;
     left: 10%;
 }
@@ -125,10 +113,6 @@ section h2 {
 .services {
     float: right;
     width: 45%;
-    /*height: auto;
-    padding: 1%;
-    background-color: rgba(64, 64, 64, 0.6);
-    position: relative; */
     bottom: -30%;
     right: 10%;
 
