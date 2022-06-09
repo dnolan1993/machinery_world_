@@ -99,7 +99,7 @@ section {
     border-bottom: 1px solid #fafafa;
 }
 
-#about-us {
+.about-us {
     padding: 1%;
     width: 45%;
     height: fit-content;
@@ -116,7 +116,6 @@ section {
 }
 
 .services {
-
     float: right;
     width: 45%;
     height: auto;
