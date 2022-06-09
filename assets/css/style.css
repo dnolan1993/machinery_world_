@@ -91,15 +91,12 @@ section {
     max-width: 600px;
 }
 
-#about-us {
-    clear: both;
-}
-
-#about-us h2 {
+section h2 {
     border-bottom: 1px solid #fafafa;
 }
 
 .about-us {
+    clear: both;
     padding: 1%;
     width: 45%;
     height: fit-content;
@@ -110,10 +107,6 @@ section {
 }
 
 /* services section */
-
-#services h2 {
-    border-bottom: 1px solid #fafafa;
-}
 
 .services {
     float: right;
