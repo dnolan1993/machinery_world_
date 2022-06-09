@@ -297,14 +297,18 @@ input {
         position: relative;
     }
 
-    #about-us {
+    .about-us {
         top: 2.5%;
         left: 2.5%;
     }
 
-    #services {
+    .services {
         bottom: -22.5%;
         right: 2.5%;
+    }
+
+    .opening-times {
+        bottom: -45%;
     }
 
     .photos {
@@ -329,7 +333,7 @@ input {
 /* For services to fit more uniformly throughout sizes */
 
 @media screen and (max-width: 1110px) {
-    #services {
+    .services {
         bottom: -13%;
     }
 }
@@ -364,7 +368,7 @@ input {
         margin: 0 auto;
     }
 
-    #services {
+    .services {
         right: 25%;
         bottom: -20%;
     }
@@ -410,12 +414,12 @@ input {
         margin: 0 auto;
     }
 
-    #about-us {
+    .about-us {
         left: auto;
         right: auto;
     }
 
-    #services {
+    .services {
         left: auto;
         right: auto;
         bottom: -17.5%;
@@ -506,7 +510,7 @@ input {
         margin-left: 20%;
     }
 
-    #services {
+    .services {
         bottom: -5%;
     }
 
@@ -531,11 +535,11 @@ input {
         width: 95%;
     }
 
-    #about-us {
+    .about-us {
         top: 0.5%;
     }
 
-    #services {
+    .services {
         bottom: -2.5%;
     }
 
