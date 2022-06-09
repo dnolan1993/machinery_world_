@@ -115,14 +115,13 @@ section {
     border-bottom: 1px solid #fafafa;
 }
 
-#services {
+.services {
 
     float: right;
     width: 45%;
     height: auto;
     padding: 1%;
     background-color: rgba(64, 64, 64, 0.6);
-
     position: relative;
     bottom: -30%;
     right: 10%;
