@@ -8,7 +8,7 @@
 }
 
 body {
-    max-width: 1500px;
+    max-width: 1400px;
     margin-left: auto;
     margin-right: auto;
     font-family: Roboto, sans-serif;
@@ -104,8 +104,9 @@ section h2 {
 .about-us {
     clear: both;
     width: 45%;
+    position: relative;
     top: 2.5%;
-    left: 10%;
+    left: 5%;
 }
 
 /* services section */
@@ -113,8 +114,9 @@ section h2 {
 .services {
     float: right;
     width: 45%;
+    position: relative;
     bottom: -30%;
-    right: 10%;
+    right: 5%;
 }
 
 #equipment-list {
@@ -130,7 +132,7 @@ section h2 {
 .opening-times {
     width: 20%;
     bottom: -51%;
-    left: 10%;
+    left: 5%;
 }
 
 .opening-times ul {
@@ -282,6 +284,14 @@ input {
 
 /* media queries */
 
+/* to align opening times section */
+
+@media screen and (max-width: 1500px) {
+    .opening-times {
+        bottom: -47.5%;
+    }
+}
+
 /* For large screen sizes from 1200px wide and down  */
 
 @media screen and (max-width: 1200px) {
@@ -308,7 +318,8 @@ input {
     }
 
     .opening-times {
-        bottom: -45%;
+        left: 2.5%;
+        bottom: -40%;
     }
 
     .photos {
