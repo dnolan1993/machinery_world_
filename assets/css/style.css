@@ -306,7 +306,8 @@ input:-webkit-autofill {
 
 @media screen and (max-width: 1380px) {
     #booking-form-input {
-        width: 40%;
+        width: 45%;
+        height: fit-content;
         left: 0;
         margin-left: auto;
         margin-right: auto;
@@ -315,10 +316,6 @@ input:-webkit-autofill {
     .form-section {
         background: url(../images/bobcat-skidsteer-min.jpg) no-repeat top center;
         background-size: contain;
-    }
-
-    #booking-form-input {
-        height: fit-content;
     }
 }
 
@@ -357,9 +354,8 @@ input:-webkit-autofill {
         padding-top: 2.5%;
     }
 
-    .form-section {
-        background: url(../images/bobcat-skidsteer-min.jpg) no-repeat top center;
-        background-size: contain;
+    #booking-form-input {
+        width: 50%;
     }
 
     #book-now {
