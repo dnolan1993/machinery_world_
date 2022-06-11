@@ -428,6 +428,14 @@ input:-webkit-autofill {
     }
 }
 
+/* sizing for booking form-input */
+
+@media screen and (max-width: 900px) {
+    #booking-form-input {
+        width: 70%;
+    }
+}
+
 /* For medium screen sizes from 768px wide and down  */
 
 @media screen and (max-width: 768px) {
@@ -472,9 +480,7 @@ input:-webkit-autofill {
     }
 
     #booking-form-input {
-        width: 70%;
-        top: 5%;
-        left: 5%;
+        width: 80%;
     }
 }
 
@@ -508,8 +514,7 @@ input:-webkit-autofill {
 
     #booking-form-input {
         width: 90%;
-        height: auto;
-        left: 1%;
+        margin-top: 7.5%;
     }
 }
 
@@ -536,6 +541,11 @@ input:-webkit-autofill {
         margin-top: 0;
         padding-top: 2.5%;
     }
+
+    #booking-form-input {
+        width: 95%;
+        margin-top: 10%;
+    }
 }
 
 /* For small screen sizes from 452px wide and down  */
@@ -553,6 +563,11 @@ input:-webkit-autofill {
 
     .photos {
         column-count: 2;
+    }
+
+    #booking-form-input {
+        width: 100%;
+        margin-top: 7.5%;
     }
 
     #book-now {
