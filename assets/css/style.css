@@ -419,6 +419,10 @@ input:-webkit-autofill {
         background-position: 50% 10%;
     }
 
+    #booking-form-input {
+        width: 60%;
+    }
+
     #book-now {
         width: 50%;
     }
