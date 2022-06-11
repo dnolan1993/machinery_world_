@@ -393,17 +393,38 @@ input:-webkit-autofill {
     #background-image {
         background: url(../images/wheel-digger-on-road-site-min.jpg) no-repeat center top;
         width: 100%;
+        height: 1000px;
         background-size: contain;
         position: relative;
     }
 
     #background-image section {
         margin: 0 auto;
+        width: 60%;
+    }
+
+    .about-us {
+        left: auto;
+        right: auto;
     }
 
     .services {
-        right: 25%;
-        bottom: -20%;
+        top: 5%;
+        float: none;
+        right: 0;
+        left: 0;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .opening-times {
+        left: auto;
+        right: auto;
+        top: 7.5%;
+    }
+    
+    footer {
+        bottom: 0;
     }
 
     .photos {
@@ -454,20 +475,9 @@ input:-webkit-autofill {
     #background-image section {
         clear: both;
         float: none;
-        width: 60%;
+        width: 80%;
         height: auto;
         margin: 0 auto;
-    }
-
-    .about-us {
-        left: auto;
-        right: auto;
-    }
-
-    .services {
-        left: auto;
-        right: auto;
-        bottom: -17.5%;
     }
 
     .photos {
@@ -490,7 +500,6 @@ input:-webkit-autofill {
     #logo {
         text-align: center;
         margin: auto;
-
     }
 
     .menu {
@@ -498,7 +507,7 @@ input:-webkit-autofill {
     }
 
     #background-image section {
-        width: 80%;
+        width: 90%;
     }
 
     .photos {
@@ -557,8 +566,8 @@ input:-webkit-autofill {
         margin-left: 20%;
     }
 
-    .services {
-        bottom: -5%;
+    #background-image section {
+        width: 95%;
     }
 
     .photos {
@@ -584,7 +593,7 @@ input:-webkit-autofill {
     }
 
     #background-image section {
-        width: 95%;
+        width: 100%;
     }
 
     .about-us {
