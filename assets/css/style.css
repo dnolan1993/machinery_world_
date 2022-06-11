@@ -185,7 +185,7 @@ footer {
     display: flex;
     max-width: 100%;
     min-width: 100%;
-    height: 900px;
+    height: 930px;
     background: url(../images/loader-bucket-min.jpg) no-repeat center top;
     margin: 2.5%;
     background-size: contain;
@@ -242,7 +242,7 @@ input {
 }
 
 .text-input {
-    background-color: transparent;
+    background-color: rgba(64, 64, 64, 0.2);
     font-size: medium;
     color: #fafafa;
     -webkit-text-fill-color: #fafafa;
