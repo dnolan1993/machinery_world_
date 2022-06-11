@@ -218,12 +218,12 @@ input {
 #booking-form-input {
     line-height: 175%;
     margin: 2.5%;
-    margin-top: .25%;
+    margin-top: 0%;
     margin-bottom: .25%;
     padding: 2.5%;
-    padding-top: 1%;
+    padding-top: 2%;
     width: 60%;
-    height: fit-content;
+    height: auto;
     float: left;
     color: #fafafa;
     background-color: rgba(64, 64, 64, 0.5);
@@ -241,11 +241,11 @@ input {
 }
 
 .text-box {
-    margin-top: 2.5%;
+    margin-top: 1.75%;
 }
 
 .radio-div {
-    margin-top: 2.5%;
+    margin-top: 1.5%;
 }
 
 .text-input {
