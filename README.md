@@ -32,6 +32,36 @@ The ideal client for this page is an adult seeking a fun day for themselves/ the
     <li>Quickly be able to navigate to the booking form and book an experience.</li>
 </ul>
 
+## Wireframes
+
+<ul>
+    <li>
+    Homepage Wireframes <br>
+    <img src="wireframes/desktop-homepage.png">
+    <img src="wireframes/tablet-homepage.png">
+    <img src="wireframes/iphone-homepage.png">
+    </li>
+    <li>
+    Gallery Wireframes <br>
+    <img src="wireframes/desktop-gallery.png">
+    <img src="wireframes/tablet-gallery.png">
+    <img src="wireframes/iphone-gallery.png">
+    </li>
+    <li>
+    Book Now! Wireframes <br>
+    <img src="wireframes/desktop-book-now.png">
+    <img src="wireframes/tablet-book-now.png">
+    <img src="wireframes/iphone-book-now.png">
+    </li>
+</ul>
+
+## Technologies Used
+
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+</ul>
+
 ## Features
 <ul>
     <li>Header</li>
