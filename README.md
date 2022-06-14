@@ -8,6 +8,29 @@ Users of this website will be able to find all the information thery need to kno
 safety procedures, contact information and a booking form. This site is targeted towards parents that think their child would enjoy the experience of driving construction equipment or that they may themselves enjoy the experience.
 
 <img src="assets/images/webpage-device-preview.png" alt="Screenshot preview of responsive design across different device sizes">
+ 
+## UX
+### Ideal Client
+The ideal client for this page is an adult seeking a fun day for themselves/ their family.
+#### They would ideally:
+<ul>
+    <li>Be a parent.</li>
+    <li>Have disposable income to book.</li>
+    <li>Live in Ireland where the theme park is located (travelling distance to the park to make a day trip)</li>
+</ul> 
+
+#### Goal as a first time visitor to the site:
+<ul>
+    <li>Understand what machinery world is and the services the park provides.</li>
+    <li>Be able to easily navigate through the site to find what they are looking for.</li>
+    <li>View the site and easily navigate to and understand the booking form.</li>
+</ul>
+
+#### Goal as a returning visitor:
+<ul>
+    <li>Quickly be able to navigate to the section of the site you wish to view/use.</li>
+    <li>Quickly be able to navigate to the booking form and book an experience.</li>
+</ul>
 
 ## Features
 <ul>
