@@ -184,6 +184,14 @@ The ideal client for this page is an adult seeking a fun day for themselves/ the
 </ul>
 
 ## Testing
+
+### Validator Testing
+<ul>
+    <li>
+    <a href="https://validator.w3.org/#validate_by_input" target="_blank">HTML Validator</a>
+    </li>
+</ul>
+
 <ul>
     <li>
         I tested that the site works on differrnt browsers: Chrome, Microsoft Edge, Firefox and Safari (on iPhone).
