@@ -208,6 +208,18 @@ The ideal client for this page is an adult seeking a fun day for themselves/ the
 
 <ul>
     <li>
+    <a href="https://jigsaw.w3.org/css-validator/#validate_by_input" target="_blank">CSS Validator</a>
+    </li>
+    <ul>
+        <li>
+            style.css result
+            <img src="">
+        </li>
+    </ul>
+</ul>
+
+<ul>
+    <li>
         I tested that the site works on differrnt browsers: Chrome, Microsoft Edge, Firefox and Safari (on iPhone).
     </li>
     <li>

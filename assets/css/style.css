@@ -35,7 +35,6 @@ body {
 
 h2 {
     font-size: 125%;
-    font-style: bold;
     margin-bottom: 1%;
 }
 
@@ -422,7 +421,7 @@ input:-webkit-autofill {
         right: auto;
         top: 7.5%;
     }
-    
+
     footer {
         bottom: 0;
     }
