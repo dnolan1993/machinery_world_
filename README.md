@@ -232,12 +232,24 @@ The ideal client for this page is an adult seeking a fun day for themselves/ the
     </ul>
 </ul>
 
-<ul>
+The site has been tested on the following browsers:
+<ol>
     <li>
-        I tested that the site works on differrnt browsers: Chrome, Microsoft Edge, Firefox and Safari (on iPhone).
+    Google Chrome, Version 102.0.5005.115 (Official Build) (64-bit)
     </li>
     <li>
-        I used devtools to ensure my webpage was responsive across varying screen sizes and devices. I also used devtools to ensure the site functioned in the manner I intended.
+    Firefox, Version 102.0.5005.115 (Official Build) (64-bit)
+    </li>
+    <li>
+    Microsoft Edge, Version 102.0.1245.41 (Official build) (64-bit)
+    </li>
+    <li>
+    Safari on iOS, version 15.4 (iPhone, iPad and iPod)(Tested on iPhone XR)
+    </li>
+</ol>
+<ul>
+    <li>
+        I got friends and family to visit the site on their own devices and give me feedback on the functionality of the page and the result was they could navigate the site easily on their individual devices and the all links worked.
     </li>
     <li>
         I tested all links to ensure that they bring the user to the intended page and/or section of the page.
