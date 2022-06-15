@@ -199,6 +199,10 @@ The ideal client for this page is an adult seeking a fun day for themselves/ the
             gallery.hmtl result
             <img src="assets/images/html-validation.png">
         </li>
+        <li>
+            booknow.hmtl result
+            <img src="assets/images/html-validation.png">
+        </li>
     </ul>
 </ul>
 
