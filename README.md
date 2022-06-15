@@ -17,6 +17,7 @@ The ideal client for this page is an adult seeking a fun day for themselves/ the
     <li>Be a parent.</li>
     <li>Have disposable income to book.</li>
     <li>Live in Ireland where the theme park is located (travelling distance to the park to make a day trip)</li>
+    <li>Have an interest in construction equipment or an interest in experiencing operating construction equipment</li>
 </ul> 
 
 #### Goal as a first time visitor to the site:
@@ -32,30 +33,86 @@ The ideal client for this page is an adult seeking a fun day for themselves/ the
     <li>Quickly be able to navigate to the booking form and book an experience.</li>
 </ul>
 
-## Wireframes
+## Design
 
+## Wireframes
+<br>
 <ul>
     <li>
-    Homepage Wireframes <br>
+    Homepage Wireframes 
+    <br>
     <img src="wireframes/desktop-homepage.png">
+    <br>
     <img src="wireframes/tablet-homepage.png">
+    <br>
     <img src="wireframes/iphone-homepage.png">
     </li>
+    <br>
     <li>
     Gallery Wireframes <br>
     <img src="wireframes/desktop-gallery.png">
+    <br>
     <img src="wireframes/tablet-gallery.png">
+    <br>
     <img src="wireframes/iphone-gallery.png">
-    </li>
+    </li> 
+    <br>
     <li>
     Book Now! Wireframes <br>
     <img src="wireframes/desktop-book-now.png">
+    <br>
     <img src="wireframes/tablet-book-now.png">
+    <br>
     <img src="wireframes/iphone-book-now.png">
     </li>
 </ul>
 
+### Images
+<ul>
+    <li>
+    All images throughout the site are of construction machinery, as it is a construction equipment based theme park. I tried to us the most eye catching pictures I could find of the machinery that would best display how the machinery operated and to catch the eye of the user.
+    </li>
+</ul>
+
+### Colour Scheme
+<ul>
+    <li>
+    For the colours of the webpage I went with a dark background and a light text colour as I felt this woould stand out to the user and as most of the images had a lighter back ground, they would stand out more to the user.
+    </li>
+</ul>
+
+### Fonts
+
+<ul>
+    <li>
+    For the fonts I used Google fonts. For the logo I used 'Stalinist One' as it is a big blocky font that I felt would fit well with the type of logo I wanted for the website, all other text on the site is 'Roboto' as I felt it flowed well throughout the site and is very readable for a user. 
+    </li>
+</ul>
+
 ## Technologies Used
+
+<ul>
+    <li>
+    Google Fonts
+        <ul>
+            <li>
+            I imported fonts from Google fonts to style the website.
+            </li>
+        </ul>
+    </li>
+</ul>
+<ul>
+    <li>
+    Font Awesome
+        <ul>
+            <li>
+            I imported icons from font awesome to style the website.
+            </li>
+        </ul>
+    </li>
+</ul>
+
+### Languages Used
 
 <ul>
 <li>HTML</li>
@@ -63,6 +120,7 @@ The ideal client for this page is an adult seeking a fun day for themselves/ the
 </ul>
 
 ## Features
+### Existing Features
 <ul>
     <li>Header</li>
         <ul>
@@ -107,6 +165,22 @@ The ideal client for this page is an adult seeking a fun day for themselves/ the
             </li>
         </ul>
         <img src="assets/images/booknow-page.png" alt="Screenshot of Book Now! webpage">
+</ul>
+
+### Possible Features to be Implemented in the future:
+<ul>
+    <li>
+    A Contact us page with a enquiry form and all methods of contacting the business.
+    </li>
+    <li>
+    An embeded map to show users where the theme park is.
+    </li>
+    <li>
+    Indivual pages for each machine and the applications of each particular machine, showing user clearly what to expect from their experience and help them choose which experience suits them best.
+    </li>
+    <li>
+    If all other possible features were implemented, the site would required an improved nav bar. Including a drop-down menu for the machinery list to navigate through those pages. 
+    </li>
 </ul>
 
 ## Testing
