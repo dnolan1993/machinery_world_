@@ -190,6 +190,12 @@ The ideal client for this page is an adult seeking a fun day for themselves/ the
     <li>
     <a href="https://validator.w3.org/#validate_by_input" target="_blank">HTML Validator</a>
     </li>
+    <ul>
+        <li>
+            Index.hmtl Result
+            <img src="assets/images/html-validation.png">
+        </li>
+    </ul>
 </ul>
 
 <ul>
