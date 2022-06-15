@@ -215,6 +215,20 @@ The ideal client for this page is an adult seeking a fun day for themselves/ the
             style.css result
             <img src="documentation/css-validation.png">
         </li>
+        <li>
+            style.css warningss given by validator
+            <img src="documentation/css-validation-warnings.png">
+            <ol>
+                <li>
+                The warning for line 1 is pointing out that the validator will not check the imported link in line 1 of the style.css file.
+                </li>
+                <li>
+                The warning for line 254 advises that it is a vendor extention but it is needed as without it the text can not be seen in the text input when the auto-fill function is used.
+                </li>
+                <li>
+                The warning for line 261 advises that it is a vendor extended pseudo-class but it too is needed as without it when the autofill function is used the background color of the text input automatically changes to whites making the text invisible to the user.</li>
+            </ol>
+        </li>
     </ul>
 </ul>
 
