@@ -232,6 +232,7 @@ The ideal client for this page is an adult seeking a fun day for themselves/ the
     </ul>
 </ul>
 
+### Browser Testing
 The site has been tested on the following browsers:
 <ol>
     <li>
@@ -252,7 +253,10 @@ The site has been tested on the following browsers:
         I got friends and family to visit the site on their own devices and give me feedback on the functionality of the page and the result was they could navigate the site easily on their individual devices and the all links worked.
     </li>
     <li>
-        I tested all links to ensure that they bring the user to the intended page and/or section of the page.
+        I manually tested all links to ensure that they bring the user to the intended page and/or section of the page.
+    </li>
+    <li>
+        I Used Devtools in Google Chrome, Version 102.0.5005.115 (Official Build) (64-bit), to ensure that the elements of my page were responsive through all screen sizes and to test that links still functioned as they should.
     </li>
     <li>
         I confirmed that all content of the pages were easy to read and understand for the user, with clear headings to signal to the user where the content was and what it related to.
@@ -279,3 +283,19 @@ The site has been tested on the following browsers:
 </ul>
 
 ## Credits
+### index.html
+<ul>
+    <li>
+    I used the code for the footer element from the Code institute practice project "Love Running"
+    </li>
+</ul>
+
+### gallery.html
+<ul>
+    <li>
+    I used the code for the footer element from the Code institute practice project "Love Running"
+    </li>
+    <li>
+    I also used the code for styling the gallery page in a masonary layout from the Code institute practice project "Love Running"
+    </li>
+</ul>
