@@ -193,15 +193,15 @@ The ideal client for this page is an adult seeking a fun day for themselves/ the
     <ul>
         <li>
             index.hmtl result
-            <img src="assets/images/html-validation.png">
+            <img src="documentation/html-validation.png">
         </li>
         <li>
             gallery.hmtl result
-            <img src="assets/images/html-validation.png">
+            <img src="documentation/html-validation.png">
         </li>
         <li>
             booknow.hmtl result
-            <img src="assets/images/html-validation.png">
+            <img src="documentation/html-validation.png">
         </li>
     </ul>
 </ul>
