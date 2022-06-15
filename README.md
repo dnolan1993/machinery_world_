@@ -213,7 +213,7 @@ The ideal client for this page is an adult seeking a fun day for themselves/ the
     <ul>
         <li>
             style.css result
-            <img src="">
+            <img src="documentation/css-validation.png">
         </li>
     </ul>
 </ul>
