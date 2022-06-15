@@ -48,9 +48,9 @@
                 <input type="email" id="email" name="email" class="text-input non-button" required>
             </div>
             <div class="radio-div">
-                <label for="booking-input machinery-buttons">Please choose one of the following machines for your
-                    experience:</label>
-                <div class="booking-input machinery-buttons">
+                <p>Please choose one of the following machines for your
+                    experience:</p>
+                <div id="machinery-buttons" class="booking-input machinery-buttons">
                     <input type="radio" class="machinery-radio" id="site-dumper" name="machinery" value="site-dumper"
                         required>
                     <label for="site-dumper">Site dumper</label>
@@ -93,7 +93,7 @@
             <div class="booking-input text-box">
                 <label for="multiple-machines">If you are booking more than one machine for the day please select the
                     additional machine here:</label>
-                <input type="text" list="machines-drop-down" name="multiple-machines" class="text-input non-button">
+                <input type="text" list="machines-drop-down" id="multiple-machines" name="multiple-machines" class="text-input non-button">
                 <div class="drop-down-menu">
                     <datalist id="machines-drop-down">
                         <option value="None">
@@ -110,16 +110,14 @@
             </div>
             <div class="booking-input text-box">
                 <label for="date">Select a date:</label>
-                <input type="date" class="date-time" id="date" name="date" class="text-input non-button" required>
+                <input type="date" class="text-input non-button date-time" id="date" name="date" required>
             </div>
             <div class="booking-input text-box">
                 <label for="time">Select a time:</label>
-                <input type="time" step="600" class="date-time" id="time" name="time" min="09:00" max="18:00"
-                    class="text-input non-button" required>
+                <input type="time" step="600" class="text-input non-button date-time" id="time" name="time" min="09:00" max="18:00" required>
             </div>
             <div class="booking-input text-box">
                 <input type="submit" id="book-now" name="book-now" value="Book now!" class="booking-button">
-            </div>
             </div>
         </form>
     </section>
@@ -139,8 +137,7 @@
             </li>
             <li>
                 <a href="https://instagram.com" target="_blank" rel="noopener"
-                    aria-label="Visits our Instagram (opens in a new tab)"><i
-                        class="fa-brands fa-instagram"></i></i></a>
+                    aria-label="Visits our Instagram (opens in a new tab)"><i class="fa-brands fa-instagram"></i></a>
             </li>
         </ul>
     </footer>
