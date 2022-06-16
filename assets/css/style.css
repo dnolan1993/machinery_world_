@@ -587,7 +587,7 @@ input {
     }
 
     .menu {
-        font-size: medium;
+        font-size: small;
         display: block;
         text-align: center;
     }
@@ -598,10 +598,16 @@ input {
 
     .about-us {
         top: 0.5%;
+        padding: 0 5%;
     }
 
     .services {
         bottom: -2.5%;
+        padding: 0 5%;
+    }
+
+    .opening-times {
+        padding: 0 5%;
     }
 
     .photos {
