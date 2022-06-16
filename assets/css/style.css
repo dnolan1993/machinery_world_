@@ -226,7 +226,7 @@ input {
     height: auto;
     float: left;
     color: #fafafa;
-    background-color: rgba(64, 64, 64, 0.5);
+    background-color: rgba(64, 64, 64, 0.8);
     position: relative;
     left: 5%;
 }
@@ -519,12 +519,16 @@ input {
     }
 
     .form-section {
+        margin: 0;
         width: 100%;
-        background-position: 50% 50%;
     }
 
     .form-section h2 {
         font-size: 100%;
+    }
+
+    .text-input {
+        width: 85%;
     }
 
     #booking-form-input {
