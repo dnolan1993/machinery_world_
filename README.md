@@ -215,20 +215,6 @@ The ideal client for this page is an adult seeking a fun day for themselves/ the
             style.css result
             <img src="documentation/css-validation.png">
         </li>
-        <li>
-            style.css warningss given by validator
-            <img src="documentation/css-validation-warnings.png">
-            <ol>
-                <li>
-                The warning for line 1 is pointing out that the validator will not check the imported link in line 1 of the style.css file.
-                </li>
-                <li>
-                The warning for line 254 advises that it is a vendor extention but it is needed as without it the text can not be seen in the text input when the auto-fill function is used.
-                </li>
-                <li>
-                The warning for line 261 advises that it is a vendor extended pseudo-class but it too is needed as without it when the autofill function is used the background color of the text input automatically changes to whites making the text invisible to the user.</li>
-            </ol>
-        </li>
     </ul>
 </ul>
 
@@ -267,20 +253,6 @@ The site has been tested on the following browsers:
 </ul>
 
 ## Bugs
-### Solved bugs
-<ul>
-    <li>
-    When I tested the "Book Now!" form page I relised that if you use auto-fill on google chrome browsers it changed the background color of the text inputs to white, which caused an issue as the text color is also white making it invisible within the text input.
-    </li>
-    <li>
-    I researched online to find that this is a common problem, I found an article on stackoverflow.com giving code examples to correct this error but because my text inputs are transparent I had to continue to run different variants of similar code until I found one that fixed the error. 
-    </li>
-    <li>
-    Adding the code snipet:<br>
-        transition: background-color 5000s ease-in-out 0s;<br>
-    Solved the problem and the form page functioned properly again.
-    </li>
-</ul>
 
 ## Credits
 ### index.html
