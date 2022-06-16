@@ -122,10 +122,29 @@
                 <label for="date">Select a date:</label>
                 <input type="date" class="text-input non-button date-time" id="date" name="date" required>
             </div>
-            <div class="booking-input text-box">
+            <div id="time-dropdown" class="booking-input text-box">
                 <label for="time">Select a time:</label>
-                <input type="time" step="600" class="text-input non-button date-time" id="time" name="time" min="09:00"
-                max="18:00" required>
+                <select id="time" class="text-input non-button date-time" id="time" name="time" required>
+                    <option value="09:00">09:00am</option>
+                    <option value="09:30">09:30am</option>
+                    <option value="10:00">10:00am</option>
+                    <option value="10:30">10:30am</option>
+                    <option value="11:00">11:00am</option>
+                    <option value="11:30">11:30am</option>
+                    <option value="12:00">12:00pm</option>
+                    <option value="12:30">12:30pm</option>
+                    <option value="13:00">01:00pm</option>
+                    <option value="13:30">01:30pm</option>
+                    <option value="14:00">02:00pm</option>
+                    <option value="14:30">02:30pm</option>
+                    <option value="15:00">03:00pm</option>
+                    <option value="15:30">03:30pm</option>
+                    <option value="16:00">04:00pm</option>
+                    <option value="16:30">04:30pm</option>
+                    <option value="17:00">05:00pm</option>
+                    <option value="17:30">05:30pm</option>
+                    <option value="18:00">06:00pm</option>
+                </select>
             </div>
             <div class="booking-input text-box">
                 <input type="submit" id="book-now" name="book-now" value="Book now!" class="booking-button">
@@ -157,7 +176,7 @@
     </footer>
 
     <!-- font awesome script -->
-    
+
     <script src="https://kit.fontawesome.com/a31ad1dfc9.js" crossorigin="anonymous"></script>
 
 </body>
