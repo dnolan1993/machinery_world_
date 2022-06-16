@@ -13,6 +13,9 @@
 </head>
 
 <body>
+
+    <!-- header section containing logo and nav bar -->
+
     <header>
         <a id="logo-link" href="index.html">
             <h1 id="logo">Machinery World</h1>
@@ -31,6 +34,9 @@
             </ul>
         </nav>
     </header>
+
+    <!-- section containing all form inputs -->
+
     <section class="form-section">
         <form method="POST" action="https://formdump.codeinstitute.net/" id="booking-form-input" class="booking-form">
             <h2>Book a time and date for your experience <i class="fa-solid fa-person-digging"></i></h2>
@@ -47,6 +53,9 @@
                 <label for="email">email address:</label>
                 <input type="email" id="email" name="email" class="text-input non-button" required>
             </div>
+
+            <!-- code for radio button section -->
+
             <div class="radio-div">
                 <p>Please choose one of the following machines for your
                     experience:</p>
@@ -93,7 +102,8 @@
             <div class="booking-input text-box">
                 <label for="multiple-machines">If you are booking more than one machine for the day please select the
                     additional machine here:</label>
-                <input type="text" list="machines-drop-down" id="multiple-machines" name="multiple-machines" class="text-input non-button">
+                <input type="text" list="machines-drop-down" id="multiple-machines" name="multiple-machines"
+                    class="text-input non-button">
                 <div class="drop-down-menu">
                     <datalist id="machines-drop-down">
                         <option value="None">
@@ -114,13 +124,17 @@
             </div>
             <div class="booking-input text-box">
                 <label for="time">Select a time:</label>
-                <input type="time" step="600" class="text-input non-button date-time" id="time" name="time" min="09:00" max="18:00" required>
+                <input type="time" step="600" class="text-input non-button date-time" id="time" name="time" min="09:00"
+                max="18:00" required>
             </div>
             <div class="booking-input text-box">
                 <input type="submit" id="book-now" name="book-now" value="Book now!" class="booking-button">
             </div>
         </form>
     </section>
+
+    <!-- footer section containing social media links -->
+
     <footer>
         <ul class="social-networks">
             <li>
@@ -143,6 +157,7 @@
     </footer>
 
     <!-- font awesome script -->
+    
     <script src="https://kit.fontawesome.com/a31ad1dfc9.js" crossorigin="anonymous"></script>
 
 </body>
