@@ -252,7 +252,11 @@ The site has been tested on the following browsers:
     </li>
 </ul>
 
+### Funtionality Testing
+
 ## Bugs
+
+## Lighthouse Summary results
 
 ## Credits
 ### index.html
