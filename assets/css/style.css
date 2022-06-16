@@ -5,6 +5,7 @@
     padding: 0;
     border: none;
     box-sizing: border-box;
+    outline: #ff4747 solid 1px;
 }
 
 body {
@@ -580,7 +581,13 @@ input {
 /* For small screen sizes from 408px wide and down  */
 
 @media screen and (max-width: 408px) {
+    
+    #logo   {
+        font-size: large;
+    }
+
     .menu {
+        font-size: medium;
         display: block;
         text-align: center;
     }
