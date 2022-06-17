@@ -270,6 +270,15 @@ The site has been tested on the following browsers:
                     <li>
                         Use devtools to adjust screen sizes up and down to verify that the logo and its positioning are responsive. 
                     </li>
+                    <li>
+                        Verify that the bottom border is applied to only the "Home" link, to show the is the page currently active.
+                    </li>
+                    <li>
+                        Hover over nav bar links to ensure that the red text colour is applied to item hovered over.
+                    </li>
+                    <li>
+                        Click on link in nav bar to ensure they lead to corresponding pages. "Home" takes you to the homepage, "Gallery" takes you to the gallery page and "Book now!" takes you to the booking form page.
+                    </li>
                 </ul>
             </li>
         </ol>
