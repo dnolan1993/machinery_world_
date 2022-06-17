@@ -270,6 +270,9 @@ The site has been tested on the following browsers:
                     <li>
                         Use devtools to adjust screen sizes up and down to verify that the logo and its positioning are responsive. 
                     </li>
+                </ul>
+            <li>Nav Bar
+                <ul>
                     <li>
                         Verify that the bottom border is applied to only the "Home" link, to show the is the page currently active.
                     </li>
@@ -278,6 +281,23 @@ The site has been tested on the following browsers:
                     </li>
                     <li>
                         Click on link in nav bar to ensure they lead to corresponding pages. "Home" takes you to the homepage, "Gallery" takes you to the gallery page and "Book now!" takes you to the booking form page.
+                    </li>
+                </ul>
+            </li>
+            <li>Footer social media links
+                <ul>
+                    <li>
+                        Hover over social media links within the footer to ensure the icon colour change to red when icon is hovered over.
+                    </li>
+                    <li>
+                        Click each social media link to verify that each link brings you to the correct page. Facebook icon takes you to Facebook homepage, Twitter icon takes you to Twitter homepage, YouTube icon takes you to YouTube homepage and Instagram icon takes you to Instagram homepage.
+                    </li>
+                </ul>
+            </li>
+            <li>Responsiveness of entire Homepage
+                <ul>
+                    <li>
+                        Use devtools to adjust screen sizes up and down to verify that the entire homepage is responsive and looks good on all screen sizes.
                     </li>
                 </ul>
             </li>
