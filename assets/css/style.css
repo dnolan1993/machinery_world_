@@ -40,6 +40,10 @@ footer {
     color: #fafafa;
 }
 
+footer i:hover {
+    color: #ff4747;
+}
+
 /* headings and logo */
 
 #logo {
