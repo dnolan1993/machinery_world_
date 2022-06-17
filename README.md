@@ -254,6 +254,8 @@ The site has been tested on the following browsers:
 
 ### Funtionality Testing
 
+
+
 ## Bugs
 
 ## Lighthouse Summary results
@@ -261,6 +263,13 @@ The site has been tested on the following browsers:
 <br>
 
 ## Credits
+
+<ul>
+    <li>
+    All images used in this site are stock images sourced from <a href="https://www.pexels.com/">pexels.com</a>
+    </li>
+</ul>
+
 ### index.html
 <ul>
     <li>
