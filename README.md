@@ -265,7 +265,10 @@ The site has been tested on the following browsers:
                         Go to website "Home" page in web browser.
                     </li>
                     <li>
-                        Click "MACHINERY WORLD" logo in the upper left of the webpage
+                        Click "MACHINERY WORLD" logo in the upper left of the webpage to verify it links to the homepage of the site.
+                    </li>
+                    <li>
+                        Use devtools to adjust screen sizes up and down to verify that the logo and its positioning are responsive. 
                     </li>
                 </ul>
             </li>
