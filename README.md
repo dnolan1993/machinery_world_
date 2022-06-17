@@ -254,7 +254,23 @@ The site has been tested on the following browsers:
 
 ### Funtionality Testing
 
-
+<ul>
+    <li>
+        Homepage
+    </li>
+        <ol>
+            <li> Logo Homepage link
+                <ul>
+                    <li>
+                        Go to website "Home" page in web browser.
+                    </li>
+                    <li>
+                        Click "MACHINERY WORLD" logo in the upper left of the webpage
+                    </li>
+                </ul>
+            </li>
+        </ol>
+</ul>
 
 ## Bugs
 
@@ -284,5 +300,12 @@ The site has been tested on the following browsers:
     </li>
     <li>
     I also used the code for styling the gallery page in a masonary layout from the Code institute practice project "Love Running"
+    </li>
+</ul>
+
+### booknow.html
+<ul>
+    <li>
+    I used the code for the footer element from the Code institute practice project "Love Running"
     </li>
 </ul>
