@@ -302,6 +302,55 @@ The site has been tested on the following browsers:
                 </ul>
             </li>
         </ol>
+    <li>
+    Gallery Page
+    </li><ol>
+            <li> Logo Homepage link
+                <ul>
+                    <li>
+                        Go to website "Home" page in web browser.
+                    </li>
+                    <li>
+                        Click the "Gallery" link in the nav bar located in the upper right of the webpage, to load Gallery page.
+                    </li>
+                    <li>
+                        Click "MACHINERY WORLD" logo in the upper left of the webpage to verify it links to the homepage of the site.
+                    </li>
+                    <li>
+                        Return to "Gallery" page using the nav bar again.
+                    </li>
+                    <li>
+                        Use devtools to adjust screen sizes up and down to verify that the logo and its positioning are responsive. 
+                    </li>
+                </ul>
+            <li>Nav Bar
+                <ul>
+                    <li>
+                        Verify that the bottom border is applied to only the "Gallery" link, to show the is the page currently active.
+                    </li>
+                    <li>
+                        Repeat same test on nav bar elements as previously performed on Homepage nav bar section.
+                    </li>
+                </ul>
+            </li>
+            <li>Footer social media links
+                <ul>
+                    <li>
+                        Repeat same test on footer elements as previously performed on Homepage footer section.
+                    </li>
+                </ul>
+            </li>
+            <li>Responsiveness of entire Gallery
+                <ul>
+                    <li>
+                        Use devtools to adjust screen sizes up and down to verify that the entire Gallery page is responsive and looks good on all screen sizes. 
+                    </li>
+                    <li> 
+                        Verify that rows and columns count adjusts according to screen size.
+                    </li>
+                </ul>
+            </li>
+        </ol>
 </ul>
 
 ## Bugs
