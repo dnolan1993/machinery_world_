@@ -257,6 +257,8 @@ The site has been tested on the following browsers:
 ## Bugs
 
 ## Lighthouse Summary results
+<img src="documentation/lighthouse-summary-screenshot.png">
+<br>
 
 ## Credits
 ### index.html
