@@ -17,6 +17,29 @@ body {
     color: #fafafa;
 }
 
+/* footer */
+
+footer {
+    clear: both;
+    height: 50px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks>li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    padding-top: 20px;
+    color: #fafafa;
+}
+
 /* headings and logo */
 
 #logo {
@@ -144,29 +167,6 @@ section {
 
 .opening-times ul {
     padding-left: 10%;
-}
-
-/* footer */
-
-footer {
-    clear: both;
-    height: 50px;
-}
-
-.social-networks {
-    text-align: center;
-}
-
-.social-networks>li {
-    display: inline;
-}
-
-.social-networks i {
-    font-size: 160%;
-    margin: 1%;
-    padding: 5%;
-    padding-top: 20px;
-    color: #fafafa;
 }
 
 /* gallery */
