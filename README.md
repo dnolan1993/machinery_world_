@@ -47,29 +47,29 @@ The ideal client for this page is an adult seeking a fun day for themselves/ the
     <li>
     Homepage Wireframes 
     <br>
-    <img src="wireframes/desktop-homepage.png">
+    <img src="wireframes/desktop-homepage.png" alt="Image of desktop wireframe for index.html page">
     <br>
-    <img src="wireframes/tablet-homepage.png">
+    <img src="wireframes/tablet-homepage.png" alt="Image of tablet wireframe for index.html page">
     <br>
-    <img src="wireframes/iphone-homepage.png">
+    <img src="wireframes/iphone-homepage.png" alt="Image of iPhone wireframe for index.html page">
     </li>
     <br>
     <li>
     Gallery Wireframes <br>
-    <img src="wireframes/desktop-gallery.png">
+    <img src="wireframes/desktop-gallery.png" alt="Image of desktop wireframe for gallery.html page">
     <br>
-    <img src="wireframes/tablet-gallery.png">
+    <img src="wireframes/tablet-gallery.png" alt="Image of tablet wireframe for gallery.html page">
     <br>
-    <img src="wireframes/iphone-gallery.png">
+    <img src="wireframes/iphone-gallery.png" alt="Image of iPhone wireframe for gallery.html page">
     </li> 
     <br>
     <li>
     Book Now! Wireframes <br>
-    <img src="wireframes/desktop-book-now.png">
+    <img src="wireframes/desktop-book-now.png" alt="Image of desktop wireframe for booknow.html page">
     <br>
-    <img src="wireframes/tablet-book-now.png">
+    <img src="wireframes/tablet-book-now.png" alt="Image of tablet wireframe for booknow.html page">
     <br>
-    <img src="wireframes/iphone-book-now.png">
+    <img src="wireframes/iphone-book-now.png" alt="Image of iPhone wireframe for booknow.html page">
     </li>
 </ul>
 
@@ -215,15 +215,15 @@ The ideal client for this page is an adult seeking a fun day for themselves/ the
     <ul>
         <li>
             index.html result
-            <img src="documentation/html-validation.png">
+            <img src="documentation/html-validation.png"alt="Image of HTML validator results for index.html">
         </li>
         <li>
             gallery.html result
-            <img src="documentation/html-validation.png">
+            <img src="documentation/html-validation.png" alt="Image of HTML validator results for gallery.html">
         </li>
         <li>
             booknow.html result
-            <img src="documentation/html-validation.png">
+            <img src="documentation/html-validation.png" alt="Image of HTML validator results for booknow.html">
         </li>
     </ul>
 </ul>
@@ -235,7 +235,7 @@ The ideal client for this page is an adult seeking a fun day for themselves/ the
     <ul>
         <li>
             style.css result
-            <img src="documentation/css-validation.png">
+            <img src="documentation/css-validation.png" alt="Image of CSS validator results">
         </li>
     </ul>
 </ul>
@@ -419,7 +419,7 @@ Additional Testing
                             </li>
                             <li>
                                 Leave "First Name:" field blank and click "BOOK NOW!" button to verify that field is required. (shows error message if not filled in)
-                                <img src="documentation/please-fill-in-this-field-message.png">
+                                <img src="documentation/please-fill-in-this-field-message.png" alt="Error message displayed when field left blank">
                             </li>
                         </ul>
                     </li>
@@ -430,7 +430,7 @@ Additional Testing
                             </li>
                             <li>
                                 Correctly fill in fields before but leave "Last Name:" field blank and click "BOOK NOW!" button to verify that field is required. (shows error message if not filled in)
-                                (Add Image of Error message here.)
+                                <img src="documentation/please-fill-in-this-field-message.png" alt="Error message displayed when field left blank">
                             </li>
                         </ul>
                     </li>
@@ -537,7 +537,7 @@ To my knowledge, there are no unsolved bugs within the site.
 <br>
 
 ## Lighthouse Summary results
-<img src="documentation/lighthouse-summary-screenshot.png">
+<img src="documentation/lighthouse-summary-screenshot.png" alt="Screenshot of lighthouse summary for webpage">
 
 <br>
 
