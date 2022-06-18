@@ -419,7 +419,7 @@ Additional Testing
                             </li>
                             <li>
                                 Leave "First Name:" field blank and click "BOOK NOW!" button to verify that field is required. (shows error message if not filled in)
-                                (Add Image of Error message here.)
+                                <img src="documentation/please-fill-in-this-field-message.png">
                             </li>
                         </ul>
                     </li>
