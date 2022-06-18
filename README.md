@@ -9,6 +9,8 @@ safety procedures, contact information and a booking form. This site is targeted
 
 <img src="assets/images/webpage-device-preview.png" alt="Screenshot preview of responsive design across different device sizes">
  
+<br>
+
 ## UX
 ### Ideal Client
 The ideal client for this page is an adult seeking a fun day for themselves/ their family.
@@ -33,7 +35,11 @@ The ideal client for this page is an adult seeking a fun day for themselves/ the
     <li>Quickly be able to navigate to the booking form and book an experience.</li>
 </ul>
 
+<br>
+
 ## Design
+
+<br>
 
 ## Wireframes
 <br>
@@ -67,12 +73,16 @@ The ideal client for this page is an adult seeking a fun day for themselves/ the
     </li>
 </ul>
 
+<br>
+
 ### Images
 <ul>
     <li>
     All images throughout the site are of construction machinery, as it is a construction equipment based theme park. I tried to us the most eye catching pictures I could find of the machinery that would best display how the machinery operated and to catch the eye of the user.
     </li>
 </ul>
+
+<br>
 
 ### Colour Scheme
 <ul>
@@ -81,6 +91,8 @@ The ideal client for this page is an adult seeking a fun day for themselves/ the
     </li>
 </ul>
 
+<br>
+
 ### Fonts
 
 <ul>
@@ -88,6 +100,8 @@ The ideal client for this page is an adult seeking a fun day for themselves/ the
     For the fonts I used Google fonts. For the logo I used 'Stalinist One' as it is a big blocky font that I felt would fit well with the type of logo I wanted for the website, all other text on the site is 'Roboto' as I felt it flowed well throughout the site and is very readable for a user. 
     </li>
 </ul>
+
+<br>
 
 ## Technologies Used
 
@@ -112,12 +126,16 @@ The ideal client for this page is an adult seeking a fun day for themselves/ the
     </li>
 </ul>
 
+<br>
+
 ### Languages Used
 
 <ul>
 <li>HTML</li>
 <li>CSS</li>
 </ul>
+
+<br>
 
 ## Features
 ### Existing Features
@@ -167,6 +185,8 @@ The ideal client for this page is an adult seeking a fun day for themselves/ the
         <img src="assets/images/booknow-page.png" alt="Screenshot of Book Now! webpage">
 </ul>
 
+<br>
+
 ### Possible Features to be Implemented in the future:
 <ul>
     <li>
@@ -182,6 +202,8 @@ The ideal client for this page is an adult seeking a fun day for themselves/ the
     If all other possible features were implemented, the site would required an improved nav bar. Including a drop-down menu for the machinery list to navigate through those pages. 
     </li>
 </ul>
+
+<br>
 
 ## Testing
 
@@ -218,6 +240,8 @@ The ideal client for this page is an adult seeking a fun day for themselves/ the
     </ul>
 </ul>
 
+<br>
+
 ### Browser Testing
 The site has been tested on the following browsers:
 <ol>
@@ -234,6 +258,9 @@ The site has been tested on the following browsers:
     Safari on iOS, version 15.4 (iPhone, iPad and iPod)(Tested on iPhone XR)
     </li>
 </ol>
+
+Additional Testing
+
 <ul>
     <li>
         I got friends and family to visit the site on their own devices and give me feedback on the functionality of the page and the result was they could navigate the site easily on their individual devices and the all links worked.
@@ -257,7 +284,6 @@ The site has been tested on the following browsers:
 <ul>
     <li>
         Homepage
-    </li>
         <ol>
             <li> Logo Homepage link
                 <ul>
@@ -302,9 +328,10 @@ The site has been tested on the following browsers:
                 </ul>
             </li>
         </ol>
-    <li>
-    Gallery Page
-    </li><ol>
+    </li>
+    <br>
+    <li>Gallery Page
+        <ol>
             <li> Logo Homepage link
                 <ul>
                     <li>
@@ -351,12 +378,167 @@ The site has been tested on the following browsers:
                 </ul>
             </li>
         </ol>
+    </li>
+    <br>
+    <li>Book Now! Page
+        <ol>
+            <li> Logo Homepage link
+                <ul>
+                    <li>
+                        Go to website "Home" page in web browser.
+                    </li>
+                    <li>
+                        Click the "Book Now!" link in the nav bar located in the upper right of the webpage, to load Gallery page.
+                    </li>
+                    <li>
+                        Click "MACHINERY WORLD" logo in the upper left of the webpage to verify it links to the homepage of the site.
+                    </li>
+                    <li>
+                        Return to "Book Now!" page using the nav bar again.
+                    </li>
+                    <li>
+                        Use devtools to adjust screen sizes up and down to verify that the logo and its positioning are responsive. 
+                    </li>
+                </ul>
+            <li>Nav Bar
+                <ul>
+                    <li>
+                        Verify that the bottom border is applied to only the "Book Now!" link, to show the is the page currently active.
+                    </li>
+                    <li>
+                        Repeat same test on nav bar elements as previously performed on both Homepage and Gallery page nav bar sections.
+                    </li>
+                </ul>
+            </li>
+            <li>Booking Form Inputs
+                <ol>
+                    <li>First Name
+                        <ul>
+                            <li>
+                                Click the text input box for "First Name:" and type a name to verify name is clearly visible within text box.
+                            </li>
+                            <li>
+                                Leave "First Name:" field blank and click "BOOK NOW!" button to verify that field is required. (shows error message if not filled in)
+                                (Add Image of Error message here.)
+                            </li>
+                        </ul>
+                    </li>
+                    <li>Last Name
+                        <ul>
+                            <li>
+                                Click the text input box for "Last Name:" and type a surname name to verify name is clearly visible within text box.
+                            </li>
+                            <li>
+                                Correctly fill in fields before but leave "Last Name:" field blank and click "BOOK NOW!" button to verify that field is required. (shows error message if not filled in)
+                                (Add Image of Error message here.)
+                            </li>
+                        </ul>
+                    </li>
+                    <li>email address
+                        <ul>
+                            <li>
+                                Click the text input box for "email address:" and type text without @ symbol and click "BOOK NOW!" button to verify entry has to be an email address. (shows error message when any other input than an email address is entered)
+                                (Add Image of Error message here.)
+                            </li>
+                            <li>
+                                Correctly fill in fields before but leave "email address:" field blank and click "BOOK NOW!" button to verify that field is required. (shows error message if not filled in)
+                                (Add Image of Error message here.)
+                            </li>
+                        </ul>
+                    </li>
+                    <li>Radio Buttons
+                        <ul>
+                            <li>
+                                Correctly fill in fields before but do not select a radio button and click "BOOK NOW!" button to verify that field is required. (shows error message if not filled in)
+                                (Add Image of Error message here.)
+                            </li>
+                            <li>
+                                Select the first radio button to ensure it highlights the button you have choosen.
+                            </li>
+                            <li>
+                                Select the first radio button, then click the second radio button to ensure it selects the new button and overwrites the original selection.
+                            </li>
+                            <li>
+                                Repeat previous step until radio buttons are exhuasted to ensure they all work uniformly.
+                            </li>
+                        </ul>
+                    </li>
+                    <li>Additional Machinery Selection
+                        <ul>
+                            <li>
+                                Correctly fill in fields before but leave "multiple-machines" field blank to ensure this is an optional field. (does not show error message as is not a required field)
+                            </li>
+                            <li>
+                                Choose the first item on the drop-down list to ensure it inserts this option in to the input field.
+                            </li>
+                            <li>
+                                Repeat the previous step for each item in the drop-down list to ensure they all work correctly.
+                            </li>
+                        </ul>
+                    </li>
+                    <li>Date Selection
+                        <ul>
+                            <li>
+                                Correctly fill in fields before but do not select a date and click "BOOK NOW!" button to verify that field is required. (shows error message if not filled in)
+                                (Add Image of Error message here.)
+                            </li>
+                            <li>
+                                Choose a date to ensure it does not show an error message and that the input is working correctly.
+                            </li>
+                        </ul>
+                    </li>
+                    <li>Time Selection
+                        <ul>
+                            <li>
+                                This is a select input so it automatically displays the lowest value, correctly fil out the previous input and click "Book Now!" to ensure the "Select a time" field is working correctly.
+                            </li>
+                            <li>
+                                Repeat the previous step for each select option in the "Select a time" field to verify they all work correctly and produce to right time when selected.
+                            </li>
+                        </ul>
+                    </li>
+                </ol>
+            </li>
+            <li>Footer social media links
+                <ul>
+                    <li>
+                        Repeat same test on footer elements as previously performed on both Homepage and Gallery page footer sections.
+                    </li>
+                </ul>
+            </li>
+            <li>Responsiveness of entire Book Now! Page
+                <ul>
+                    <li>
+                        Use devtools to adjust screen sizes up and down to verify that the entire Book Now! page is responsive and looks good on all screen sizes. 
+                    </li>
+                </ul>
+            </li>
+        </ol>
+    </li>
 </ul>
 
+<br>
+
 ## Bugs
+### Solved bugs
+
+My mentor pointed out that on smaller screen sizes my website was creating a horizontal scroll, which I had not intended and was not ideal for the page layout.
+
+We determined this horizontal scroll was created by an logo overflowing out of its parent element.
+
+to solve this I reduced the font size for the logo in a media query for smaller device screen sizes.
+
+This fixed the problem and now the site functions as intended on all screen sizes.
+
+### Unsolved bugs
+
+To my knowledge, there are no unsolved bugs within the site. 
+
+<br>
 
 ## Lighthouse Summary results
 <img src="documentation/lighthouse-summary-screenshot.png">
+
 <br>
 
 ## Credits
