@@ -483,7 +483,8 @@ Additional Testing
                         <ul>
                             <li>
                                 Correctly fill in fields before but do not select a date and click "BOOK NOW!" button to verify that field is required. (shows error message if not filled in)
-                                (Add Image of Error message here.)
+                                <br>
+                                <img src="documentation/please-fill-in-this-field-message.png" alt="Error message displayed when field left blank">
                             </li>
                             <li>
                                 Choose a date to ensure it does not show an error message and that the input is working correctly.
