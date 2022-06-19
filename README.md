@@ -2,10 +2,10 @@
 
 <a href="https://dnolan1993.github.io/machinery_world_/index.html">Link to live project</a>
 
-The Machinery World website is a site to advertise a fictional constructioin machinery theme park. Machinery world is a theme park where ,kids age 8 and over , and adults can experience driving any construction equipment they choose. To get a feel for what it's like to run machinery first hand. The site is mainly targeted at adults that may want a fun day out for their family or just themselves, there is a image gallery to show some of the machinery available and the applications they may experience while at the park.
+The Machinery World website is a site to advertise a fictional construction machinery theme park. Machinery world is a theme park where, kids age 8 and over, and adults can experience driving any construction equipment they choose. To get a feel for what it's like to run machinery first-hand. The site is mainly targeted at adults that may want a fun day out for their family or just themselves, there is an image gallery to show some of the machinery available and the applications they may experience while at the park.
 
-Users of this website will be able to find all the information thery need to know about Machinery world: What is Machinery World, opening times,
-safety procedures, contact information and a booking form. This site is targeted towards parents that think their child would enjoy the experience of driving construction equipment or that they may themselves enjoy the experience.
+Users of this website will be able to find all the information they need to know about Machinery world: What is Machinery World, opening times,
+safety procedures, contact information and a booking form. This site is targeted toward parents that think their child would enjoy the experience of driving construction equipment or that they may themselves enjoy the experience.
 
 <img src="assets/images/webpage-device-preview.png" alt="Screenshot preview of responsive design across different device sizes">
  
@@ -78,7 +78,7 @@ The ideal client for this page is an adult seeking a fun day for themselves/ the
 ### Images
 <ul>
     <li>
-    All images throughout the site are of construction machinery, as it is a construction equipment based theme park. I tried to us the most eye catching pictures I could find of the machinery that would best display how the machinery operated and to catch the eye of the user.
+    All images throughout the site are of construction machinery, as it is a construction equipment-based theme park. I tried to use the most eye-catching pictures I could find of the machinery that would best display how the machinery operated and catch the eye of the user.
     </li>
 </ul>
 
@@ -87,7 +87,7 @@ The ideal client for this page is an adult seeking a fun day for themselves/ the
 ### Colour Scheme
 <ul>
     <li>
-    For the colours of the webpage I went with a dark background and a light text colour as I felt this woould stand out to the user and as most of the images had a lighter back ground, they would stand out more to the user.
+    For the colours of the webpage I went with a dark background and a light text colour as I felt this would stand out to the user and as most of the images had a lighter background, they would stand out more to the user.
     </li>
 </ul>
 
@@ -97,7 +97,7 @@ The ideal client for this page is an adult seeking a fun day for themselves/ the
 
 <ul>
     <li>
-    For the fonts I used Google fonts. For the logo I used 'Stalinist One' as it is a big blocky font that I felt would fit well with the type of logo I wanted for the website, all other text on the site is 'Roboto' as I felt it flowed well throughout the site and is very readable for a user. 
+    For the fonts, I used Google fonts. For the logo, I used 'Stalinist One' as it is a big blocky font that I felt would fit well with the type of logo I wanted for the website, all other text on the site is 'Roboto' as I felt it flowed well throughout the site and is very readable for a user. 
     </li>
 </ul>
 
@@ -263,7 +263,7 @@ Additional Testing
 
 <ul>
     <li>
-        I got friends and family to visit the site on their own devices and give me feedback on the functionality of the page and the result was they could navigate the site easily on their individual devices and the all links worked.
+        I got friends and family to visit the site on their own devices and give me feedback on the functionality of the page and the result was they could navigate the site easily on their devices and all links worked.
     </li>
     <li>
         I manually tested all links to ensure that they bring the user to the intended page and/or section of the page.
@@ -272,10 +272,10 @@ Additional Testing
         I Used Devtools in Google Chrome, Version 102.0.5005.115 (Official Build) (64-bit), to ensure that the elements of my page were responsive through all screen sizes and to test that links still functioned as they should.
     </li>
     <li>
-        I confirmed that all content of the pages were easy to read and understand for the user, with clear headings to signal to the user where the content was and what it related to.
+        I confirmed that all content of the pages was easy to read and understand for the user, with clear headings to signal to the user where the content was and what it related to.
     </li>
     <li>
-        I confirmed my form functionality by running it with the correct information, then incorrect information as a control to ensure the inputs were correct and working corrrectly.
+        I confirmed my form functionality by running it with the correct information, and then incorrect information as a control to ensure the inputs were correct and working correctly.
     </li>
 </ul>
 
@@ -294,7 +294,7 @@ First time visitors:
         Be able to easily navigate through the site to find what they are looking for.
             <ul>
                 <li>
-                    On each page of the site there is a nav bar to easily navigate between pages.
+                    On each page of the site, there is a nav bar to easily navigate between pages.
                 </li>
                 <li>
                     The logo, if clicked, also returns the user to the Homepage of the site.
@@ -308,10 +308,10 @@ First time visitors:
                     The site is easily viewed on a wide range of devices with media queries added to make it accessible on all devices.
                 </li>
                 <li>
-                    The Book Now! form page acn be easily located and navigated to through the nav bar in all pages with the link labelled "Book Now!".
+                    The Book Now! form page can be easily located and navigated through the nav bar on all pages with the link labelled "Book Now!".
                 </li>
                 <li>
-                    The Form page is easily understood as it is clearly labelled to shoe the user what is required in each field, any field that are required to be filled in by the user will also prompt the user to fill them in before allowing them to submit the form.
+                    The Form page is easily understood as it is clearly labelled to show the user what is required in each field, any fields that are required to be filled in by the user will also prompt the user to fill them in before allowing them to submit the form.
                 </li>
             </ul>
     </li>
@@ -348,7 +348,7 @@ Homepage
                     Go to website "Home" page in web browser.
                 </li>
                 <li>
-                    Click "MACHINERY WORLD" logo in the upper left of the webpage to verify it links to the homepage of the site.
+                    Click the "MACHINERY WORLD" logo in the upper left of the webpage to verify it links to the homepage of the site.
                 </li>
                 <li>
                     Use devtools to adjust screen sizes up and down to verify that the logo and its positioning are responsive. 
@@ -357,22 +357,22 @@ Homepage
         <li>Nav Bar
             <ul>
                 <li>
-                    Verify that the bottom border is applied to only the "Home" link, to show the is the page currently active.
+                    Verify that the bottom border is applied to only the "Home" link, to show that is the page currently active.
                 </li>
                 <li>
-                    Hover over nav bar links to ensure that the red text colour is applied to item hovered over.
+                    Hover over nav bar links to ensure that the red text colour is applied to the item hovered over.
                 </li>
                 <li>
-                    Click on link in nav bar to ensure they lead to corresponding pages. "Home" takes you to the homepage, "Gallery" takes you to the gallery page and "Book now!" takes you to the booking form page.
+                    Click on the link in the nav bar to ensure they lead to corresponding pages. "Home" takes you to the homepage, "Gallery" takes you to the gallery page and "Book now!" takes you to the booking form page.
                 </li>
             </ul>
         <li>Footer social media links
             <ul>
                 <li>
-                Hover over social media links within the footer to ensure the icon colour change to red when icon is hovered over.
+                Hover over social media links within the footer to ensure the icon colour change to red when the icon is hovered over.
                 </li>
                 <li>
-                    Click each social media link to verify that each link brings you to the correct page. Facebook icon takes you to Facebook homepage, Twitter icon takes you to Twitter homepage, YouTube icon takes you to YouTube homepage and Instagram icon takes you to Instagram homepage.
+                    Click each social media link to verify that each link brings you to the correct page. The Facebook icon takes you to the Facebook homepage, the Twitter icon takes you to the Twitter homepage, the YouTube icon takes you to the YouTube homepage and the Instagram icon takes you to the Instagram homepage.
                 </li>
             </ul>
         </li>     
@@ -393,10 +393,10 @@ Gallery Page
                     Go to website "Home" page in web browser.
                 </li>
                 <li>
-                    Click the "Gallery" link in the nav bar located in the upper right of the webpage, to load Gallery page.
+                    Click the "Gallery" link in the nav bar located in the upper right of the webpage, to load the Gallery page.
                 </li>
                 <li>
-                    Click "MACHINERY WORLD" logo in the upper left of the webpage to verify it links to the homepage of the site.
+                    Click the "MACHINERY WORLD" logo in the upper left of the webpage to verify it links to the homepage of the site.
                 </li>
                 <li>
                     Return to "Gallery" page using the nav bar again.
@@ -408,7 +408,7 @@ Gallery Page
         <li>Nav Bar
             <ul>
                 <li>
-                    Verify that the bottom border is applied to only the "Gallery" link, to show the is the page currently active.
+                    Verify that the bottom border is applied to only the "Gallery" link, to show that is the page currently active.
                 </li>
                 <li>
                     Repeat same test on nav bar elements as previously performed on Homepage nav bar section.
@@ -442,10 +442,10 @@ Book Now! Page
                     Go to website "Home" page in web browser.
                 </li>
                 <li>
-                    Click the "Book Now!" link in the nav bar located in the upper right of the webpage, to load Gallery page.
+                    Click the "Book Now!" link in the nav bar located in the upper right of the webpage, to load the Gallery page.
                 </li>
                 <li>
-                    Click "MACHINERY WORLD" logo in the upper left of the webpage to verify it links to the homepage of the site.
+                    Click the "MACHINERY WORLD" logo in the upper left of the webpage to verify it links to the homepage of the site.
                 </li>
                 <li>
                     Return to "Book Now!" page using the nav bar again.
@@ -457,7 +457,7 @@ Book Now! Page
         <li>Nav Bar
             <ul>
                 <li>
-                    Verify that the bottom border is applied to only the "Book Now!" link, to show the is the page currently active.
+                    Verify that the bottom border is applied to only the "Book Now!" link, to show that is the page currently active.
                 </li>
                 <li>
                     Repeat same test on nav bar elements as previously performed on both Homepage and Gallery page nav bar sections.
@@ -469,7 +469,7 @@ Book Now! Page
                 <li>First Name
                     <ul>
                         <li>
-                            Click the text input box for "First Name:" and type a name to verify name is clearly visible within text box.
+                            Click the text input box for "First Name:" and type a name to verify the name is clearly visible within the text box.
                         </li>
                         <li>
                             Leave "First Name:" field blank and click "BOOK NOW!" button to verify that field is required. (shows error message if not filled in)
@@ -481,7 +481,7 @@ Book Now! Page
                 <li>Last Name
                     <ul>
                         <li>
-                            Click the text input box for "Last Name:" and type a surname name to verify name is clearly visible within text box.
+                            Click the text input box for "Last Name:" and type a surname name to verify the name is clearly visible within the text box.
                         </li>
                         <li>
                             Correctly fill in fields before but leave "Last Name:" field blank and click "BOOK NOW!" button to verify that field is required. (shows error message if not filled in)
@@ -493,7 +493,7 @@ Book Now! Page
                 <li>email address
                     <ul>
                         <li>
-                            Click the text input box for "email address:" and type text without @ symbol and click "BOOK NOW!" button to verify entry has to be an email address. (shows error message when any other input than an email address is entered)
+                            Click the text input box for "email address:" type text without @ symbol and click the "BOOK NOW!" button to verify the entry has to be an email address. (shows an error message when any other input than an email address is entered)
                             <img src="documentation/email-form-error-message.png" alt="Error message displayed when text other than an email address is entered in the field">
                         </li>
                         <li>
@@ -511,7 +511,7 @@ Book Now! Page
                             <img src="documentation/radio-button-message.png" alt="Error message displayed when no button selected in the radio button field">
                         </li>
                         <li>
-                            Select the first radio button to ensure it highlights the button you have choosen.
+                            Select the first radio button to ensure it highlights the button you have chosen.
                         </li>
                         <li>
                             Select the first radio button, then click the second radio button to ensure it selects the new button and overwrites the original selection.
@@ -524,10 +524,10 @@ Book Now! Page
                 <li>Additional Machinery Selection
                     <ul>
                         <li>
-                            Correctly fill in fields before but leave "multiple-machines" field blank to ensure this is an optional field. (does not show error message as is not a required field)
+                            Correctly fill in fields before but leave the "multiple-machines" field blank to ensure this is an optional field. (does not show an error message as is not a required field)
                         </li>
                         <li>
-                            Choose the first item on the drop-down list to ensure it inserts this option in to the input field.
+                            Choose the first item on the drop-down list to ensure it inserts this option into the input field.
                         </li>
                         <li>
                             Repeat the previous step for each item in the drop-down list to ensure they all work correctly.
@@ -549,7 +549,7 @@ Book Now! Page
                 <li>Time Selection
                     <ul>
                         <li>
-                            This is a select input so it automatically displays the lowest value, correctly fil out the previous input and click "Book Now!" to ensure the "Select a time" field is working correctly.
+                            This is a select input so it automatically displays the lowest value, correctly fill out the previous input and click "Book Now!" to ensure the "Select a time" field is working correctly.
                         </li>
                         <li>
                             Repeat the previous step for each select option in the "Select a time" field to verify they all work correctly and produce to right time when selected.
@@ -581,7 +581,7 @@ Book Now! Page
 
 My mentor pointed out that on smaller screen sizes my website was creating a horizontal scroll, which I had not intended and was not ideal for the page layout.
 
-We determined this horizontal scroll was created by an logo overflowing out of its parent element.
+We determined this horizontal scroll was created by a logo overflowing out of its parent element.
 
 to solve this I reduced the font size for the logo in a media query for smaller device screen sizes.
 
@@ -589,7 +589,7 @@ This fixed the problem and now the site functions as intended on all screen size
 
 ### Unsolved bugs
 
-To my knowledge, there are no unsolved bugs within the site. 
+To my knowledge, there are no unsolved bugs on the site. 
 
 <br>
 
@@ -599,7 +599,7 @@ To my knowledge, there are no unsolved bugs within the site.
 <br>
 
 ## Deployment
-This site is hosted by GitHub pages, deployed directly to the master branch. The deployed site will update if after new commits are made, they are pushed to GitHub pages using the "git push" command in the terminal. The Homepage is named index.html to ensure it deploys correctly through GitHib pages.
+This site is hosted by GitHub Pages and deployed directly to the master branch. The deployed site will update if after new commits are made, they are pushed to GitHub pages using the "git push" command in the terminal. The Homepage is named index.html to ensure it deploys correctly through GitHub pages.
 
 To deploy the site to GitHub pages I took the following steps:
 <ol>
