@@ -494,6 +494,7 @@ Book Now! Page
                     <ul>
                         <li>
                             Click the text input box for "email address:" type text without @ symbol and click the "BOOK NOW!" button to verify the entry has to be an email address. (shows an error message when any other input than an email address is entered)
+                            <br>
                             <img src="documentation/email-form-error-message.png" alt="Error message displayed when text other than an email address is entered in the field">
                         </li>
                         <li>
@@ -623,6 +624,7 @@ To deploy the site to GitHub pages I took the following steps:
     </li>
     <li>
         GitHib pages then display a page with a banner stating "Your site is published at https://dnolan1993.github.io/machinery_world_/"
+        <br>
         <img src="documentation/github-site-published-screenshot.png" alt="Screenshot of GitHub pages banner stating website has been published">
     </li>
 </ol>
