@@ -570,7 +570,7 @@ To deploy the site to GitHub pages I took the following steps:
     </li>
     <li>
         GitHib pages then display a page with a banner stating "Your site is published at https://dnolan1993.github.io/machinery_world_/"
-        (Add banner image here.)
+        <img src="documentation/github-site-published-screenshot.png" alt="Screenshot of GitHub pages banner stating website has been published">
     </li>
 </ol>
 
