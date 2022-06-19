@@ -545,6 +545,37 @@ To my knowledge, there are no unsolved bugs within the site.
 
 <br>
 
+## Deployment
+This site is hosted by GitHub pages, deployed directly to the master branch. The deployed site will update if after new commits are made, they are pushed to GitHub pages using the "git push" command in the terminal. The Homepage is named index.html to ensure it deploys correctly through GitHib pages.
+
+To deploy the site to GitHub pages I took the following steps:
+<ol>
+    <li>
+        I logged in to Github.
+    </li>
+    <li>
+        I selected "dnolan1993/machinery_world_" from my repositories.
+    </li>
+    <li>
+        I selected "Settings", to the right hand side of the nav bar.
+    </li>
+    <li>
+        I selected "Pages", lower left on the screen.
+    </li>
+    <li>
+        I selected "Main" in the branch dropdown menu, within the "Source" section.
+    </li>
+    <li>
+        I refreshed my page using "ctrl+shift+r" to perform a hard reload of the GitHub web page.
+    </li>
+    <li>
+        GitHib pages then display a page with a banner stating "Your site is published at https://dnolan1993.github.io/machinery_world_/"
+        (Add banner image here.)
+    </li>
+</ol>
+
+<br>
+
 ## Credits
 
 <ul>
