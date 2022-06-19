@@ -340,247 +340,239 @@ Returning visitors:
 </ol>
 
 ### Funtionality Testing
-
-<ul>
-    <li>
-        Homepage
-        <ol>
-            <li> Logo Homepage link
-                <ul>
-                    <li>
-                        Go to website "Home" page in web browser.
-                    </li>
-                    <li>
-                        Click "MACHINERY WORLD" logo in the upper left of the webpage to verify it links to the homepage of the site.
-                    </li>
-                    <li>
-                        Use devtools to adjust screen sizes up and down to verify that the logo and its positioning are responsive. 
-                    </li>
-                </ul>
-            <li>Nav Bar
-                <ul>
-                    <li>
-                        Verify that the bottom border is applied to only the "Home" link, to show the is the page currently active.
-                    </li>
-                    <li>
-                        Hover over nav bar links to ensure that the red text colour is applied to item hovered over.
-                    </li>
-                    <li>
-                        Click on link in nav bar to ensure they lead to corresponding pages. "Home" takes you to the homepage, "Gallery" takes you to the gallery page and "Book now!" takes you to the booking form page.
-                    </li>
-                </ul>
-            </li>
-            <li>Footer social media links
-                <ul>
-                    <li>
-                        Hover over social media links within the footer to ensure the icon colour change to red when icon is hovered over.
-                    </li>
-                    <li>
-                        Click each social media link to verify that each link brings you to the correct page. Facebook icon takes you to Facebook homepage, Twitter icon takes you to Twitter homepage, YouTube icon takes you to YouTube homepage and Instagram icon takes you to Instagram homepage.
-                    </li>
-                </ul>
-            </li>
-            <li>Responsiveness of entire Homepage
-                <ul>
-                    <li>
-                        Use devtools to adjust screen sizes up and down to verify that the entire homepage is responsive and looks good on all screen sizes.
-                    </li>
-                </ul>
-            </li>
-        </ol>
-    </li>
-    <br>
-    <li>Gallery Page
-        <ol>
-            <li> Logo Homepage link
-                <ul>
-                    <li>
-                        Go to website "Home" page in web browser.
-                    </li>
-                    <li>
-                        Click the "Gallery" link in the nav bar located in the upper right of the webpage, to load Gallery page.
-                    </li>
-                    <li>
-                        Click "MACHINERY WORLD" logo in the upper left of the webpage to verify it links to the homepage of the site.
-                    </li>
-                    <li>
-                        Return to "Gallery" page using the nav bar again.
-                    </li>
-                    <li>
-                        Use devtools to adjust screen sizes up and down to verify that the logo and its positioning are responsive. 
-                    </li>
-                </ul>
-            <li>Nav Bar
-                <ul>
-                    <li>
-                        Verify that the bottom border is applied to only the "Gallery" link, to show the is the page currently active.
-                    </li>
-                    <li>
-                        Repeat same test on nav bar elements as previously performed on Homepage nav bar section.
-                    </li>
-                </ul>
-            </li>
-            <li>Footer social media links
-                <ul>
-                    <li>
-                        Repeat same test on footer elements as previously performed on Homepage footer section.
-                    </li>
-                </ul>
-            </li>
-            <li>Responsiveness of entire Gallery
-                <ul>
-                    <li>
-                        Use devtools to adjust screen sizes up and down to verify that the entire Gallery page is responsive and looks good on all screen sizes. 
-                    </li>
-                    <li> 
-                        Verify that rows and columns count adjusts according to screen size.
-                    </li>
-                </ul>
-            </li>
-        </ol>
-    </li>
-    <br>
-    <li>Book Now! Page
-        <ol>
-            <li> Logo Homepage link
-                <ul>
-                    <li>
-                        Go to website "Home" page in web browser.
-                    </li>
-                    <li>
-                        Click the "Book Now!" link in the nav bar located in the upper right of the webpage, to load Gallery page.
-                    </li>
-                    <li>
-                        Click "MACHINERY WORLD" logo in the upper left of the webpage to verify it links to the homepage of the site.
-                    </li>
-                    <li>
-                        Return to "Book Now!" page using the nav bar again.
-                    </li>
-                    <li>
-                        Use devtools to adjust screen sizes up and down to verify that the logo and its positioning are responsive. 
-                    </li>
-                </ul>
-            <li>Nav Bar
-                <ul>
-                    <li>
-                        Verify that the bottom border is applied to only the "Book Now!" link, to show the is the page currently active.
-                    </li>
-                    <li>
-                        Repeat same test on nav bar elements as previously performed on both Homepage and Gallery page nav bar sections.
-                    </li>
-                </ul>
-            </li>
-            <li>Booking Form Inputs
-                <ol>
-                    <li>First Name
-                        <ul>
-                            <li>
-                                Click the text input box for "First Name:" and type a name to verify name is clearly visible within text box.
-                            </li>
-                            <li>
-                                Leave "First Name:" field blank and click "BOOK NOW!" button to verify that field is required. (shows error message if not filled in)
-                                <br>
-                                <img src="documentation/please-fill-in-this-field-message.png" alt="Error message displayed when field left blank">
-                            </li>
-                        </ul>
-                    </li>
-                    <li>Last Name
-                        <ul>
-                            <li>
-                                Click the text input box for "Last Name:" and type a surname name to verify name is clearly visible within text box.
-                            </li>
-                            <li>
-                                Correctly fill in fields before but leave "Last Name:" field blank and click "BOOK NOW!" button to verify that field is required. (shows error message if not filled in)
-                                <br>
-                                <img src="documentation/please-fill-in-this-field-message.png" alt="Error message displayed when field left blank">
-                            </li>
-                        </ul>
-                    </li>
-                    <li>email address
-                        <ul>
-                            <li>
-                                Click the text input box for "email address:" and type text without @ symbol and click "BOOK NOW!" button to verify entry has to be an email address. (shows error message when any other input than an email address is entered)
-                                <img src="documentation/email-form-error-message.png" alt="Error message displayed when text other than an email address is entered in the field">
-                            </li>
-                            <li>
-                                Correctly fill in fields before but leave "email address:" field blank and click "BOOK NOW!" button to verify that field is required. (shows error message if not filled in)
-                                <br>
-                                <img src="documentation/please-fill-in-this-field-message.png" alt="Error message displayed when field left blank">
-                            </li>
-                        </ul>
-                    </li>
-                    <li>Radio Buttons
-                        <ul>
-                            <li>
-                                Correctly fill in fields before but do not select a radio button and click "BOOK NOW!" button to verify that field is required. (shows error message if not filled in)
-                                <br>
-                                <img src="documentation/radio-button-message.png" alt="Error message displayed when no button selected in the radio button field">
-                            </li>
-                            <li>
-                                Select the first radio button to ensure it highlights the button you have choosen.
-                            </li>
-                            <li>
-                                Select the first radio button, then click the second radio button to ensure it selects the new button and overwrites the original selection.
-                            </li>
-                            <li>
-                                Repeat previous step until radio buttons are exhuasted to ensure they all work uniformly.
-                            </li>
-                        </ul>
-                    </li>
-                    <li>Additional Machinery Selection
-                        <ul>
-                            <li>
-                                Correctly fill in fields before but leave "multiple-machines" field blank to ensure this is an optional field. (does not show error message as is not a required field)
-                            </li>
-                            <li>
-                                Choose the first item on the drop-down list to ensure it inserts this option in to the input field.
-                            </li>
-                            <li>
-                                Repeat the previous step for each item in the drop-down list to ensure they all work correctly.
-                            </li>
-                        </ul>
-                    </li>
-                    <li>Date Selection
-                        <ul>
-                            <li>
-                                Correctly fill in fields before but do not select a date and click "BOOK NOW!" button to verify that field is required. (shows error message if not filled in)
-                                <br>
-                                <img src="documentation/please-fill-in-this-field-message.png" alt="Error message displayed when field left blank">
-                            </li>
-                            <li>
-                                Choose a date to ensure it does not show an error message and that the input is working correctly.
-                            </li>
-                        </ul>
-                    </li>
-                    <li>Time Selection
-                        <ul>
-                            <li>
-                                This is a select input so it automatically displays the lowest value, correctly fil out the previous input and click "Book Now!" to ensure the "Select a time" field is working correctly.
-                            </li>
-                            <li>
-                                Repeat the previous step for each select option in the "Select a time" field to verify they all work correctly and produce to right time when selected.
-                            </li>
-                        </ul>
-                    </li>
-                </ol>
-            </li>
-            <li>Footer social media links
-                <ul>
-                    <li>
-                        Repeat same test on footer elements as previously performed on both Homepage and Gallery page footer sections.
-                    </li>
-                </ul>
-            </li>
-            <li>Responsiveness of entire Book Now! Page
-                <ul>
-                    <li>
-                        Use devtools to adjust screen sizes up and down to verify that the entire Book Now! page is responsive and looks good on all screen sizes. 
-                    </li>
-                </ul>
-            </li>
-        </ol>
-    </li>
-</ul>
+Homepage
+    <ol>
+        <li> Logo Homepage link
+            <ul>
+                <li>
+                    Go to website "Home" page in web browser.
+                </li>
+                <li>
+                    Click "MACHINERY WORLD" logo in the upper left of the webpage to verify it links to the homepage of the site.
+                </li>
+                <li>
+                    Use devtools to adjust screen sizes up and down to verify that the logo and its positioning are responsive. 
+                </li>
+            </ul>
+        <li>Nav Bar
+            <ul>
+                <li>
+                    Verify that the bottom border is applied to only the "Home" link, to show the is the page currently active.
+                </li>
+                <li>
+                    Hover over nav bar links to ensure that the red text colour is applied to item hovered over.
+                </li>
+                <li>
+                    Click on link in nav bar to ensure they lead to corresponding pages. "Home" takes you to the homepage, "Gallery" takes you to the gallery page and "Book now!" takes you to the booking form page.
+                </li>
+            </ul>
+        <li>Footer social media links
+            <ul>
+                <li>
+                Hover over social media links within the footer to ensure the icon colour change to red when icon is hovered over.
+                </li>
+                <li>
+                    Click each social media link to verify that each link brings you to the correct page. Facebook icon takes you to Facebook homepage, Twitter icon takes you to Twitter homepage, YouTube icon takes you to YouTube homepage and Instagram icon takes you to Instagram homepage.
+                </li>
+            </ul>
+        </li>     
+        <li>Responsiveness of entire Homepage
+            <ul>
+                <li>
+                    Use devtools to adjust screen sizes up and down to verify that the entire homepage is responsive and looks good on all screen sizes.
+                </li>
+            </ul>
+        </li>
+    </ol>
+<br>
+Gallery Page
+    <ol>
+        <li> Logo Homepage link
+            <ul>
+                <li>
+                    Go to website "Home" page in web browser.
+                </li>
+                <li>
+                    Click the "Gallery" link in the nav bar located in the upper right of the webpage, to load Gallery page.
+                </li>
+                <li>
+                    Click "MACHINERY WORLD" logo in the upper left of the webpage to verify it links to the homepage of the site.
+                </li>
+                <li>
+                    Return to "Gallery" page using the nav bar again.
+                </li>
+                <li>
+                    Use devtools to adjust screen sizes up and down to verify that the logo and its positioning are responsive. 
+                </li>
+            </ul>
+        <li>Nav Bar
+            <ul>
+                <li>
+                    Verify that the bottom border is applied to only the "Gallery" link, to show the is the page currently active.
+                </li>
+                <li>
+                    Repeat same test on nav bar elements as previously performed on Homepage nav bar section.
+                </li>
+            </ul>
+        </li>
+        <li>Footer social media links
+            <ul>
+                <li>
+                    Repeat same test on footer elements as previously performed on Homepage footer section.
+                </li>
+            </ul>
+        </li>
+        <li>Responsiveness of entire Gallery
+            <ul>
+                <li>
+                    Use devtools to adjust screen sizes up and down to verify that the entire Gallery page is responsive and looks good on all screen sizes. 
+                </li>
+                <li> 
+                    Verify that rows and columns count adjusts according to screen size.
+                </li>
+            </ul>
+        </li>
+    </ol>
+<br>
+Book Now! Page
+    <ol>
+        <li> Logo Homepage link
+            <ul>
+                <li>
+                    Go to website "Home" page in web browser.
+                </li>
+                <li>
+                    Click the "Book Now!" link in the nav bar located in the upper right of the webpage, to load Gallery page.
+                </li>
+                <li>
+                    Click "MACHINERY WORLD" logo in the upper left of the webpage to verify it links to the homepage of the site.
+                </li>
+                <li>
+                    Return to "Book Now!" page using the nav bar again.
+                </li>
+                <li>
+                    Use devtools to adjust screen sizes up and down to verify that the logo and its positioning are responsive. 
+                </li>
+            </ul>
+        <li>Nav Bar
+            <ul>
+                <li>
+                    Verify that the bottom border is applied to only the "Book Now!" link, to show the is the page currently active.
+                </li>
+                <li>
+                    Repeat same test on nav bar elements as previously performed on both Homepage and Gallery page nav bar sections.
+                </li>
+            </ul>
+        </li>
+        <li>Booking Form Inputs
+            <ol>
+                <li>First Name
+                    <ul>
+                        <li>
+                            Click the text input box for "First Name:" and type a name to verify name is clearly visible within text box.
+                        </li>
+                        <li>
+                            Leave "First Name:" field blank and click "BOOK NOW!" button to verify that field is required. (shows error message if not filled in)
+                            <br>
+                            <img src="documentation/please-fill-in-this-field-message.png" alt="Error message displayed when field left blank">
+                        </li>
+                    </ul>
+                </li>
+                <li>Last Name
+                    <ul>
+                        <li>
+                            Click the text input box for "Last Name:" and type a surname name to verify name is clearly visible within text box.
+                        </li>
+                        <li>
+                            Correctly fill in fields before but leave "Last Name:" field blank and click "BOOK NOW!" button to verify that field is required. (shows error message if not filled in)
+                            <br>
+                            <img src="documentation/please-fill-in-this-field-message.png" alt="Error message displayed when field left blank">
+                        </li>
+                    </ul>
+                </li>
+                <li>email address
+                    <ul>
+                        <li>
+                            Click the text input box for "email address:" and type text without @ symbol and click "BOOK NOW!" button to verify entry has to be an email address. (shows error message when any other input than an email address is entered)
+                            <img src="documentation/email-form-error-message.png" alt="Error message displayed when text other than an email address is entered in the field">
+                        </li>
+                        <li>
+                            Correctly fill in fields before but leave "email address:" field blank and click "BOOK NOW!" button to verify that field is required. (shows error message if not filled in)
+                            <br>
+                            <img src="documentation/please-fill-in-this-field-message.png" alt="Error message displayed when field left blank">
+                        </li>
+                    </ul>
+                </li>
+                <li>Radio Buttons
+                    <ul>
+                        <li>
+                            Correctly fill in fields before but do not select a radio button and click "BOOK NOW!" button to verify that field is required. (shows error message if not filled in)
+                            <br>
+                            <img src="documentation/radio-button-message.png" alt="Error message displayed when no button selected in the radio button field">
+                        </li>
+                        <li>
+                            Select the first radio button to ensure it highlights the button you have choosen.
+                        </li>
+                        <li>
+                            Select the first radio button, then click the second radio button to ensure it selects the new button and overwrites the original selection.
+                        </li>
+                        <li>
+                            Repeat previous step until radio buttons are exhuasted to ensure they all work uniformly.
+                        </li>
+                    </ul>
+                </li>
+                <li>Additional Machinery Selection
+                    <ul>
+                        <li>
+                            Correctly fill in fields before but leave "multiple-machines" field blank to ensure this is an optional field. (does not show error message as is not a required field)
+                        </li>
+                        <li>
+                            Choose the first item on the drop-down list to ensure it inserts this option in to the input field.
+                        </li>
+                        <li>
+                            Repeat the previous step for each item in the drop-down list to ensure they all work correctly.
+                        </li>
+                    </ul>
+                </li>
+                <li>Date Selection
+                    <ul>
+                        <li>
+                            Correctly fill in fields before but do not select a date and click "BOOK NOW!" button to verify that field is required. (shows error message if not filled in)
+                            <br>
+                            <img src="documentation/please-fill-in-this-field-message.png" alt="Error message displayed when field left blank">
+                        </li>
+                        <li>
+                            Choose a date to ensure it does not show an error message and that the input is working correctly.
+                        </li>
+                    </ul>
+                </li>
+                <li>Time Selection
+                    <ul>
+                        <li>
+                            This is a select input so it automatically displays the lowest value, correctly fil out the previous input and click "Book Now!" to ensure the "Select a time" field is working correctly.
+                        </li>
+                        <li>
+                            Repeat the previous step for each select option in the "Select a time" field to verify they all work correctly and produce to right time when selected.
+                        </li>
+                    </ul>
+                </li>
+            </ol>
+        </li>
+        <li>Footer social media links
+            <ul>
+                <li>
+                    Repeat same test on footer elements as previously performed on both Homepage and Gallery page footer sections.
+                </li>
+            </ul>
+        </li>
+        <li>Responsiveness of entire Book Now! Page
+            <ul>
+                <li>
+                    Use devtools to adjust screen sizes up and down to verify that the entire Book Now! page is responsive and looks good on all screen sizes. 
+                </li>
+            </ul>
+        </li>
+    </ol>
 
 <br>
 
