@@ -595,7 +595,7 @@ To my knowledge, there are no unsolved bugs on the site.
 <br>
 
 ## Lighthouse Summary results
-<img src="documentation/lighthouse-summary-screenshot.png" alt="Screenshot of lighthouse summary for webpage">
+<img src="documentation/updated-lighthouse-summary-screenshot.png" alt="Screenshot of lighthouse summary for webpage">
 
 <br>
 
