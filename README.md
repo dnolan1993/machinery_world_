@@ -452,7 +452,8 @@ Additional Testing
                         <ul>
                             <li>
                                 Correctly fill in fields before but do not select a radio button and click "BOOK NOW!" button to verify that field is required. (shows error message if not filled in)
-                                (Add Image of Error message here.)
+                                <br>
+                                <img src="documentation/radio-button-message.png" alt="Error message displayed when no button selected in the radio button field">
                             </li>
                             <li>
                                 Select the first radio button to ensure it highlights the button you have choosen.
