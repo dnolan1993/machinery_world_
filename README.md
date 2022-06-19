@@ -439,11 +439,12 @@ Additional Testing
                         <ul>
                             <li>
                                 Click the text input box for "email address:" and type text without @ symbol and click "BOOK NOW!" button to verify entry has to be an email address. (shows error message when any other input than an email address is entered)
-                                (Add Image of Error message here.)
+                                <img src="documentation/email-form-error-message.png" alt="Error message displayed when text other than an email address is entered in the field">
                             </li>
                             <li>
                                 Correctly fill in fields before but leave "email address:" field blank and click "BOOK NOW!" button to verify that field is required. (shows error message if not filled in)
-                                (Add Image of Error message here.)
+                                <br>
+                                <img src="documentation/please-fill-in-this-field-message.png" alt="Error message displayed when field left blank">
                             </li>
                         </ul>
                     </li>
