@@ -279,6 +279,66 @@ Additional Testing
     </li>
 </ul>
 
+### UX Client Goals
+First time visitors:
+<ol>
+    <li>
+        Understand what machinery world is and the services the park provides.
+            <ul>
+                <li>
+                    On the Landing page of the site there is a brief but clear description of what machinery world is, where it began and when it began.
+                </li>
+            </ul>
+    </li>
+    <li>
+        Be able to easily navigate through the site to find what they are looking for.
+            <ul>
+                <li>
+                    On each page of the site there is a nav bar to easily navigate between pages.
+                </li>
+                <li>
+                    The logo, if clicked, also returns the user to the Homepage of the site.
+                </li>
+            </ul>
+    </li>
+    <li>
+        View the site and easily navigate to and understand the booking form.
+            <ul>
+                <li>
+                    The site is easily viewed on a wide range of devices with media queries added to make it accessible on all devices.
+                </li>
+                <li>
+                    The Book Now! form page acn be easily located and navigated to through the nav bar in all pages with the link labelled "Book Now!".
+                </li>
+                <li>
+                    The Form page is easily understood as it is clearly labelled to shoe the user what is required in each field, any field that are required to be filled in by the user will also prompt the user to fill them in before allowing them to submit the form.
+                </li>
+            </ul>
+    </li>
+</ol>
+Returning visitors:
+<ol>
+    <li>
+        Quickly be able to navigate to the section of the site you wish to view/use.
+            <ul>
+                <li>
+                    The nav bar on each page makes moving to whatever page the user wishes to visit very quick and simple to do.
+                </li>
+            </ul>
+    </li>
+    <li>
+        Quickly be able to navigate to the booking form and book an experience.
+            <ul>
+                <li>
+                    The user can navigate straight to the booking page by clicking the "Book Now!" link in the nav bar of any of the pages.
+                </li>
+                <li>
+                    The Booking form is simple and straight forward making it easy for the user to book an experience quickly and easily.
+                </li>
+            </ul>
+    </li>
+</ol>
+
 ### Funtionality Testing
 
 <ul>
